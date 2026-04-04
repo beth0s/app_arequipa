@@ -1,0 +1,11 @@
+﻿.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+*.lock
+.DS_Store
+renv.lock
+.Rprofile
+cuestionario.pdf.docx
+output/
+revn/

@@ -1,0 +1,26 @@
+---
+title: "INFORME TÉCNICO - ENCUESTA ELECTORAL AREQUIPA 2026"
+author: "Encuestadora Viral"
+date: "`r format(Sys.Date(), '%d de %B de %Y')`"
+output:
+  html_document:
+    df_print: paged
+subtitle: 'Elecciones Generales 2026 | Circunscripción: Arequipa'
+---
+
+```{r setup, include=FALSE}
+# Configuración básica
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+# Cargar datos - probar diferentes rutas
+if(file.exists("../data/encuesta_raw.csv")) {
+  datos <- read.csv("../data/encuesta_raw.csv", stringsAsFactors = FALSE)
+} else if(file.exists("data/encuesta_raw.csv")) {
+  datos <- read.csv("data/encuesta_raw.csv", stringsAsFactors = FALSE)
+} else {
+  # Si no encuentra los datos, crear datos de ejemplo
+  stop("No se encuentra el archivo de datos")
+}
+
+# Calcular total
+total <- nrow(datos)

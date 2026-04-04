@@ -1,0 +1,163 @@
+---
+title: "Informe Técnico de Encuesta Electoral - Arequipa 2026"
+author: "[Nombre de tu encuestadora]"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+library(tidyverse)
+library(kableExtra)
+
+# Cargar datos
+# Si tienes los .rds usalos, en su defecto aseguramos cargar el CSV
+if(file.exists("../data/encuesta_raw.rds")){
+  datos <- readRDS("../data/encuesta_raw.rds")
+} else {
+  datos <- read.csv("../data/encuesta_raw.csv", stringsAsFactors = FALSE)
+}
+
+# Cargar población electoral
+if(file.exists("../data/poblacion_electoral.csv")){
+  poblacion_electoral <- read.csv("../data/poblacion_electoral.csv")
+}
+```
+
+# Informe Técnico según Artículo 20 del Reglamento del JNE
+
+## 1. Fecha de realización del estudio
+El presente estudio de encuesta de intención de voto fue realizado durante los días **19 y 20 de marzo de 2026**.
+
+## 2. Fecha de publicación o difusión del estudio
+La publicación oficial de los resultados del estudio se efectuará el día **26 de marzo de 2026**.
+
+## 3. Medio probatorio que evidencie la publicación o difusión del estudio
+La difusión de la encuesta se realizará a través de la página web oficial y redes sociales. 
+*(Adjuntar aquí el enlace al video, audio o captura del recorte periodístico tras la publicación)*
+- **Enlace de Publicación:** [www.diarioviral.pe/encuestas](http://www.diarioviral.pe/encuestas)
+
+## 4. Objetivos del estudio
+**Objetivo General:**
+Evaluar la intención de voto para las elecciones presidenciales, de diputados y senadores a realizarse el 12 de abril de 2026 en la provincia de Arequipa.
+
+**Población:**
+Población civil no institucionalizada, constituida por hombres y mujeres de 18 a 70 años, residentes habituales en 13 distritos de la provincia de Arequipa que cuentan con DNI y están habilitados para votar.
+
+## 5. Ámbito
+El presente estudio es de orden **Provincial** (Provincia de Arequipa, Región Arequipa).
+
+## 6. Población objetivo
+**Unidades:** Hombres y mujeres habilitados para sufragar.
+**Características:** Edades entre 18 y 70 años, de todos los niveles socioeconómicos (A/B, C, D/E).
+**Ubicación geográfica:** 13 distritos de la provincia de Arequipa (Alto Selva Alegre, Arequipa Cercado, Cayma, Cerro Colorado, José Luis Bustamante y Rivero, Mariano Melgar, La Joya, Miraflores, Paucarpata, Sachaca, Socabaya, Yanahuara, Yura).
+**Periodo de referencia:** Elecciones Generales 2026.
+
+## 7. Marco muestral
+El marco muestral se construyó utilizando la siguiente información pública y documentada:
+- **Fuentes:** 
+  1. RENIEC - Padrón Electoral (Actualizado al último corte disponible de 2025/2026).
+  2. INEI - Estimaciones y Proyecciones de Población por Departamento, Provincia y Distrito 2018-2026.
+- **Documentación cartográfica:** Planos distritales del INEI utilizados para la ubicación de manzanas y viviendas en campo.
+
+## 8. Tamaño de la población objeto del estudio
+La cuantificación de la población distribuida por distritos para el cálculo de la intención de voto es de aproximadamente **951,357 electores**.
+
+```{r tabla_poblacion, echo=FALSE, results='asis', warning=FALSE, message=FALSE}
+if(exists("poblacion_electoral")){
+  pop_table <- poblacion_electoral %>% 
+    select(distrito, electores, porcentaje_electoral) %>%
+    rename(Distrito = distrito, `Electores Estimados` = electores, `%` = porcentaje_electoral)
+  
+  kable(pop_table, caption = "Distribución Poblacional por Distrito") %>%
+    kable_styling(bootstrap_options = c("striped", "hover", "condensed"), latex_options = "hold_position")
+} else {
+  cat("*(Datos de población no encontrados, conecte el archivo correcto)*")
+}
+```
+
+## 9. Tamaño de la muestra
+Para el cálculo del tamaño de muestra se utilizó la fórmula para estimar proporciones poblacionales (población finita):
+
+$$ n = \frac{Z^2 \times p \times q \times N}{E^2(N-1) + Z^2 \times p \times q} $$
+
+Donde:
+- **N (Población):** 951,357 electores.
+- **Z (Nivel de confianza):** 1.96 (correspondiente al 95%).
+- **p y q (Probabilidad de éxito y fracaso):** 0.5 cada uno de máxima varianza.
+- **E (Margen de error):** 2.82%.
+
+Calculado esto, el tamaño de muestra final es de **`r nrow(datos)` encuestados**. Se ha calculado un nivel de representatividad sobre el 100% de los distritos planeados.
+
+```{r tabla_muestra, echo=FALSE, results='asis', warning=FALSE, message=FALSE}
+if(exists("datos")){
+  muestra_table <- datos %>%
+    group_by(distrito) %>%
+    summarise(Muestra = n()) %>%
+    mutate(`% Muestra` = round(Muestra/sum(Muestra)*100, 1)) %>%
+    rename(Distrito = distrito)
+  
+  kable(muestra_table, caption = "Distribución de la Muestra Encuestada por Distrito") %>%
+    kable_styling(bootstrap_options = c("striped", "hover", "condensed"), latex_options = "hold_position")
+}
+```
+
+## 10. Ponderaciones de la muestra
+La muestra utilizada en el estudio es **no autoponderada**. 
+Se ha implementado una variable de ponderación (`peso`) calculada mediante el algoritmo de *raking* (Rim Weighting), formulada para igualar las proporciones muestrales a las poblacionales de las fuentes oficiales (RENIEC e INEI) bajo los criterios de:
+- Distrito
+- Sexo
+- Rango de edad (18-24, 25-34, 35-44, 45-54, 55-70)
+- Nivel Socioeconómico (A/B, C, D/E).
+
+## 11. Tipo de muestreo aplicado
+El sistema de muestreo es **polietápico y estratificado**, estructurado en las siguientes etapas:
+1. **Primera Etapa (Estratificación):** Selección de conglomerados geográficos dentro de los 13 distritos elegidos con probabilidades proporcionales a su tamaño poblacional (PPT).
+2. **Segunda Etapa (Muestreo Aleatorio Simple):** Selección de manzanas y centros poblados de manera aleatoria simple dentro del plano del INEI.
+3. **Tercera Etapa (Sistemático):** Selección sistemática de viviendas dentro de cada manzana con salto predefinido de 3 hogares.
+4. **Cuarta Etapa (Cuotas):** Selección del individuo dentro del hogar, siguiendo cuotas controladas por sexo y edad.
+
+## 12. Puntos de muestreo
+El trabajo de campo se desarrolló de forma presencial (cara a cara) en **48 puntos de muestreo** (manzanas, plazas y avenidas principales) distribuidos de forma equitativa y ponderada en los 13 distritos de Arequipa detallados en el marco muestral.
+
+## 13. Instrumento de recolección de datos
+Se empleó un cuestionario estructurado administrado mediante tablets (CAPI) y formularios impresos (PAPI) según la zona. El formulario incluyó una tarjeta de opciones (Cédula de simulación) con los nombres de los candidatos. *(Anexo en expediente JNE).*
+
+## 14. Trabajo de campo
+- **Procedimiento:** Encuestas cara a cara en los hogares y puntos de muestreo.
+- **Fecha:** 19 al 20 de marzo de 2026.
+- **Personal:** 15 encuestadores y 3 supervisores designados por zonas geográficas (Norte, Centro, Sur).
+- **Supervisión de campo:** Se supervisó en campo (coincidencia presencial) y mediante verificación posterior (recontacto telefónico/backcheck) el **30%** del total de cuestionarios recolectados.
+- **Tasa de Respuesta:** De los contactos totales realizados, se logró un 20.2% de encuestas efectivas y completas.
+
+## 15. Base de datos habilitada
+La base de datos original se encuentra documentada y codificada. Junto al presente informe se adjunta un archivo `.xlsx` o `.csv` conteniendo la matriz de respuestas con su respectiva variable de ponderación (`peso`) y el diccionario de datos correspondiente.
+
+## 16. Resultado
+*(Ver anexos gráficos de la Aplicación interactiva o reportes estadísticos exportados)*
+```{r resultados, echo=FALSE, warning=FALSE, message=FALSE, fig.width=8, fig.height=4}
+if(exists("datos")){
+  suppressMessages(library(ggplot2))
+  p <- datos %>%
+    group_by(voto_presidente) %>%
+    summarise(Muestra = sum(peso)) %>%
+    mutate(Porcentaje = round(Muestra/sum(Muestra)*100, 1)) %>%
+    arrange(desc(Porcentaje)) %>%
+    ggplot(aes(x = reorder(voto_presidente, Porcentaje), y = Porcentaje)) +
+    geom_col(fill = "steelblue") +
+    geom_text(aes(label = paste0(Porcentaje, "%")), hjust = -0.1) +
+    coord_flip() +
+    theme_minimal() +
+    labs(x = "Candidato", y = "Intención de Voto (%)", title = "Resultados Presidenciales")
+  print(p)
+}
+```
+
+## 17. Financiación del estudio
+El estudio fue financiado íntegramente por **[Nombre de persona/diario]**, con fondos propios.
+
+## 18. Página web registrada
+La página web institucional donde se encontrarán disponibles el informe técnico, ficha técnica, cuestionario y resultados es: **[https://www.diarioviral.pe/encuestas](https://www.diarioviral.pe/encuestas)**.

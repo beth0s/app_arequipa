@@ -1,0 +1,10 @@
+"variable","descripcion","valores"
+"id","Identificador único de entrevista",NA
+"distrito","Distrito de residencia (1-11)","1=Alto Selva Alegre, 2=Cayma, 3=Cerro Colorado, 4=JLB y Rivero, 5=Mariano Melgar, 6=Miraflores, 7=Paucarpata, 8=Sachaca, 9=Socabaya, 10=Yanahuara, 11=Yarabamba"
+"zona","Zona: 1=Urbana, 2=Rural","1=Urbana, 2=Rural"
+"sexo","Sexo: 1=Hombre, 2=Mujer","1=Hombre, 2=Mujer"
+"edad_rango","Edad: 1=18-24, 2=25-34, 3=35-44, 4=45-54, 5=55-70, 6=71+","1=18-24, 2=25-34, 3=35-44, 4=45-54, 5=55-70, 6=71+"
+"nse","NSE: 1=A/B, 2=C, 3=D/E","1=A/B, 2=C, 3=D/E"
+"voto_presidente","Voto Presidente: códigos 1-12 según cédula","1=Alfonso López Chau, 2=Carlos Álvarez, 3=César Acuña, 4=Keiko Fujimori, 5=Rafael López Aliaga, 6=Roberto Sánchez, 7=Wolfgang Grozo, 8=Yonhy Lescano, 9=Otro, 10=Voto blanco, 11=Voto nulo, 12=No sabe"
+"voto_diputado","Voto Diputados: códigos según lista de candidatos",NA
+"voto_senado","Voto Senado: códigos según lista de partidos",NA

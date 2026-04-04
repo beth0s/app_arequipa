@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuestionario - Encuestadora Viral</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 40px auto;
+            max-width: 800px;
+            color: #333;
+            padding: 20px;
+            background-color: #fcfcfc;
+        }
+        .container {
+            background-color: #fff;
+            padding: 40px;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .header-text {
+            font-size: 0.9em;
+            text-align: justify;
+            margin-bottom: 30px;
+            color: #555;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 20px;
+        }
+        .section-title {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 8px 15px;
+            margin-top: 30px;
+            border-radius: 4px;
+            font-size: 1.1em;
+            text-align: left;
+        }
+        .question {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .options {
+            margin-left: 20px;
+            margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+        .option label {
+            cursor: pointer;
+            font-weight: normal;
+        }
+        .grid-options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>INSTRUMENTO DE RECOLECCIÓN DE DATOS</h2>
+    
+    <div class="header-text">
+        <p><strong>Encuestadora Viral</strong> es una organización dedicada a la elaboración de estudios de opinión pública y análisis electoral, debidamente registrada ante el Jurado Nacional de Elecciones (REG. N.° 00522-REE/JNE). El presente cuestionario tiene como finalidad recopilar información estadística confiable sobre la intención de voto de la población de la provincia de Arequipa en el marco de las elecciones generales 2026.</p>
+        <p>La información brindada es completamente confidencial y anónima. No se registrarán datos personales que permitan la identificación del encuestado. Los datos serán utilizados exclusivamente con fines estadísticos y académicos, en cumplimiento de la Ley N.° 29733 de Protección de Datos Personales.</p>
+    </div>
+
+    <h1>CUESTIONARIO</h1>
+    
+    <p><em>"Buenos días / tardes. Estamos realizando una encuesta sobre intención de voto respecto de las elecciones generales 2026. Su participación es voluntaria y confidencial."</em></p>
+
+    <div class="section-title">1. Datos generales</div>
+    
+    <div class="question">1.1 Edad:</div>
+    <div class="options">
+        <div class="option"><input type="radio" disabled> 18–29</div>
+        <div class="option"><input type="radio" disabled> 30–44</div>
+        <div class="option"><input type="radio" disabled> 45–59</div>
+        <div class="option"><input type="radio" disabled> 60–70</div>
+    </div>
+
+    <div class="question">1.2 Sexo:</div>
+    <div class="options">
+        <div class="option"><input type="radio" disabled> Masculino</div>
+        <div class="option"><input type="radio" disabled> Femenino</div>
+    </div>
+
+    <div class="question">1.3 Distrito:</div>
+    <div class="grid-options">
+        <div class="option"><input type="radio" disabled> Alto Selva Alegre</div>
+        <div class="option"><input type="radio" disabled> Arequipa (Cercado)</div>
+        <div class="option"><input type="radio" disabled> Cayma</div>
+        <div class="option"><input type="radio" disabled> Cerro Colorado</div>
+        <div class="option"><input type="radio" disabled> José Luis Bustamante y Rivero</div>
+        <div class="option"><input type="radio" disabled> Mariano Melgar</div>
+        <div class="option"><input type="radio" disabled> La Joya</div>
+        <div class="option"><input type="radio" disabled> Miraflores</div>
+        <div class="option"><input type="radio" disabled> Paucarpata</div>
+        <div class="option"><input type="radio" disabled> Sachaca</div>
+        <div class="option"><input type="radio" disabled> Socabaya</div>
+        <div class="option"><input type="radio" disabled> Yanahuara</div>
+        <div class="option"><input type="radio" disabled> Yura</div>
+    </div>
+
+    <div class="section-title">2. Intención de voto – Presidente del Perú</div>
+    
+    <div class="question">2.1 Si las elecciones fueran hoy, ¿por quién votaría para presidente?</div>
+    <div class="grid-options">
+        <div class="option"><input type="radio" disabled> Pablo López Chau</div>
+        <div class="option"><input type="radio" disabled> Rafael López Aliaga</div>
+        <div class="option"><input type="radio" disabled> Wolfgang Grozo Costa</div>
+        <div class="option"><input type="radio" disabled> Carlos Álvarez Loayza</div>
+        <div class="option"><input type="radio" disabled> César Acuña Peralta</div>
+        <div class="option"><input type="radio" disabled> Roberto Sánchez Palomino</div>
+        <div class="option"><input type="radio" disabled> Keiko Fujimori Higuchi</div>
+        <div class="option"><input type="radio" disabled> José Luna Gálvez</div>
+        <div class="option"><input type="radio" disabled> Otros</div>
+        <div class="option"><input type="radio" disabled> No sabe / No opina</div>
+    </div>
+
+    <div class="section-title">3. Intención de voto – Senadores por Arequipa</div>
+    
+    <div class="question">3.1 ¿Por cuál candidato votaría para senador?</div>
+    <div class="grid-options">
+        <div class="option"><input type="radio" disabled> Gustavo Rondón Fudinaga</div>
+        <div class="option"><input type="radio" disabled> Sergio Dávila Vizcarra</div>
+        <div class="option"><input type="radio" disabled> Ricardo Ramírez del Villar</div>
+        <div class="option"><input type="radio" disabled> A. Elmer Arenas Pérez</div>
+        <div class="option"><input type="radio" disabled> Yobana Huisa Vargas</div>
+        <div class="option"><input type="radio" disabled> Otros</div>
+        <div class="option"><input type="radio" disabled> No sabe / No opina</div>
+    </div>
+
+    <div class="section-title">4. Intención de voto – Diputados por Arequipa</div>
+    
+    <div class="question">4.1 ¿Por cuál candidato votaría para diputado?</div>
+    <div class="grid-options">
+        <div class="option"><input type="radio" disabled> Marleny Arminta Valencia</div>
+        <div class="option"><input type="radio" disabled> Nicolás Talavera Benavente</div>
+        <div class="option"><input type="radio" disabled> Esdras Medina Minaya</div>
+        <div class="option"><input type="radio" disabled> Adolfo Donayre Sarolli</div>
+        <div class="option"><input type="radio" disabled> Guido del Carpio Rodríguez</div>
+        <div class="option"><input type="radio" disabled> Cosme Huaman Sánchez</div>
+        <div class="option"><input type="radio" disabled> Amalia Palomino Pacheco</div>
+        <div class="option"><input type="radio" disabled> Mauricio Alosilla Chambi</div>
+        <div class="option"><input type="radio" disabled> Otros</div>
+        <div class="option"><input type="radio" disabled> No sabe / No opina</div>
+    </div>
+</div>
+
+</body>
+</html>

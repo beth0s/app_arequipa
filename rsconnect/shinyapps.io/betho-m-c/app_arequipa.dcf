@@ -1,0 +1,12 @@
+name: app_arequipa
+title: app_arequipa
+username: betho-m-c
+account: betho-m-c
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17005448
+bundleId: 11772360
+url: https://betho-m-c.shinyapps.io/app_arequipa/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

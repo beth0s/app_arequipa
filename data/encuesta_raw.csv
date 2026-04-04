@@ -1,0 +1,1207 @@
+"id","distrito","sexo","edad_rango","nse","voto_presidente","voto_diputado","voto_senado","peso"
+1,"Paucarpata","Mujer","25-34","A/B","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+2,"Yanahuara","Mujer","18-24","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+3,"Yura","Mujer","45-54","A/B","Carlos Álvarez Loayza","Nicolas Talavera Benavente","A. Elmer Arenas Pérez",1
+4,"Alto Selva Alegre","Hombre","55-70","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+5,"Alto Selva Alegre","Mujer","25-34","A/B","N.S/N.O","Guido del Carpio Rodriguez","Otros",1
+6,"José Luis Bustamante y Rivero","Hombre","45-54","D/E","N.S/N.O","Otros","N.S/N.O",1
+7,"Paucarpata","Hombre","45-54","A/B","Roberto Sánchez Palomino","N.S/N.O","Ricardo Ramírez del Villar",1
+8,"Mariano Melgar","Mujer","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+9,"Cerro Colorado","Mujer","35-44","D/E","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+10,"Miraflores","Hombre","25-34","C","Cesar Acuña Peralta","Cosme Huaman Sánchez","N.S/N.O",1
+11,"Paucarpata","Hombre","55-70","C","Otros","Mauricio Alosilla Chambi","N.S/N.O",1
+12,"José Luis Bustamante y Rivero","Mujer","55-70","C","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+13,"Alto Selva Alegre","Hombre","25-34","D/E","Pablo López Chau","Otros","A. Elmer Arenas Pérez",1
+14,"Miraflores","Hombre","45-54","A/B","N.S/N.O","Adolfo Donayre Sarolli","A. Elmer Arenas Pérez",1
+15,"Arequipa Cercado","Hombre","45-54","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+16,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","N.S/N.O","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+17,"Cerro Colorado","Mujer","35-44","D/E","N.S/N.O","Marleny Arminta Valencia","Otros",1
+18,"Paucarpata","Hombre","55-70","C","N.S/N.O","Otros","N.S/N.O",1
+19,"Cerro Colorado","Hombre","35-44","C","Otros","Otros","A. Elmer Arenas Pérez",1
+20,"Yura","Mujer","35-44","A/B","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+21,"Paucarpata","Mujer","25-34","D/E","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+22,"Alto Selva Alegre","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+23,"José Luis Bustamante y Rivero","Mujer","45-54","C","Otros","N.S/N.O","N.S/N.O",1
+24,"Miraflores","Hombre","55-70","D/E","Wolfgang Grozo Costa","Guido del Carpio Rodriguez","A. Elmer Arenas Pérez",1
+25,"Cayma","Hombre","18-24","C","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+26,"Paucarpata","Mujer","45-54","D/E","N.S/N.O","N.S/N.O","Otros",1
+27,"Cerro Colorado","Mujer","25-34","C","Wolfgang Grozo Costa","N.S/N.O","Sergio Davila Vizcarra",1
+28,"Mariano Melgar","Hombre","25-34","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+29,"Miraflores","Hombre","45-54","D/E","Otros","Cosme Huaman Sánchez","N.S/N.O",1
+30,"Arequipa Cercado","Hombre","45-54","D/E","N.S/N.O","Marleny Arminta Valencia","Otros",1
+31,"Mariano Melgar","Hombre","25-34","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+32,"Arequipa Cercado","Mujer","45-54","A/B","Otros","Mauricio Alosilla Chambi","N.S/N.O",1
+33,"Miraflores","Hombre","35-44","C","N.S/N.O","Mauricio Alosilla Chambi","Otros",1
+34,"Yanahuara","Mujer","45-54","C","Otros","N.S/N.O","N.S/N.O",1
+35,"Cayma","Mujer","55-70","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+36,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+37,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+38,"Socabaya","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+39,"Yanahuara","Mujer","18-24","C","Otros","N.S/N.O","N.S/N.O",1
+40,"Arequipa Cercado","Mujer","55-70","D/E","Otros","Mauricio Alosilla Chambi","Sergio Davila Vizcarra",1
+41,"Paucarpata","Mujer","18-24","D/E","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+42,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","Otros",1
+43,"Cayma","Hombre","25-34","C","Otros","N.S/N.O","Otros",1
+44,"Cerro Colorado","Mujer","45-54","C","N.S/N.O","Otros","Otros",1
+45,"Mariano Melgar","Hombre","45-54","D/E","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+46,"Socabaya","Hombre","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+47,"La Joya","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","Otros",1
+48,"Paucarpata","Mujer","35-44","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+49,"Mariano Melgar","Hombre","55-70","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+50,"Arequipa Cercado","Mujer","45-54","A/B","N.S/N.O","Marleny Arminta Valencia","A. Elmer Arenas Pérez",1
+51,"José Luis Bustamante y Rivero","Mujer","18-24","C","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+52,"Alto Selva Alegre","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+53,"Cerro Colorado","Mujer","25-34","D/E","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+54,"Arequipa Cercado","Mujer","55-70","D/E","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+55,"Paucarpata","Hombre","25-34","A/B","Roberto Sánchez Palomino","Marleny Arminta Valencia","N.S/N.O",1
+56,"Socabaya","Mujer","18-24","C","Keiko Fujimori Higuchi","Otros","N.S/N.O",1
+57,"Cayma","Hombre","18-24","C","Wolfgang Grozo Costa","Marleny Arminta Valencia","Otros",1
+58,"Mariano Melgar","Hombre","45-54","D/E","N.S/N.O","Marleny Arminta Valencia","Yobana Huisa Vargas",1
+59,"Paucarpata","Mujer","18-24","C","Otros","N.S/N.O","Ricardo Ramírez del Villar",1
+60,"Arequipa Cercado","Mujer","55-70","D/E","Rafael López Aliaga","Otros","Ricardo Ramírez del Villar",1
+61,"Yura","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+62,"Cayma","Mujer","55-70","D/E","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+63,"Paucarpata","Hombre","35-44","A/B","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+64,"Cayma","Mujer","45-54","A/B","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+65,"Socabaya","Mujer","35-44","A/B","N.S/N.O","Esdras Medina Minaya","Gustavo Rondón Fudinaga",1
+66,"Paucarpata","Mujer","35-44","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+67,"Alto Selva Alegre","Mujer","18-24","D/E","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+68,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","N.S/N.O","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+69,"Paucarpata","Mujer","45-54","D/E","Cesar Acuña Peralta","Otros","N.S/N.O",1
+70,"Miraflores","Hombre","25-34","C","Otros","Esdras Medina Minaya","Yobana Huisa Vargas",1
+71,"Yura","Mujer","45-54","C","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+72,"Paucarpata","Hombre","55-70","C","N.S/N.O","Cosme Huaman Sánchez","Ricardo Ramírez del Villar",1
+73,"Cayma","Hombre","45-54","D/E","Carlos Álvarez Loayza","Mauricio Alosilla Chambi","N.S/N.O",1
+74,"Mariano Melgar","Hombre","55-70","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+75,"Arequipa Cercado","Hombre","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+76,"Arequipa Cercado","Mujer","35-44","C","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+77,"Mariano Melgar","Hombre","18-24","C","Roberto Sánchez Palomino","Marleny Arminta Valencia","N.S/N.O",1
+78,"Paucarpata","Hombre","45-54","C","Carlos Álvarez Loayza","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+79,"Yura","Mujer","45-54","D/E","Otros","N.S/N.O","Ricardo Ramírez del Villar",1
+80,"Paucarpata","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+81,"Miraflores","Hombre","35-44","C","Rafael López Aliaga","Marleny Arminta Valencia","Otros",1
+82,"Paucarpata","Hombre","25-34","D/E","N.S/N.O","Esdras Medina Minaya","Otros",1
+83,"Miraflores","Mujer","18-24","A/B","Otros","N.S/N.O","A. Elmer Arenas Pérez",1
+84,"Yanahuara","Mujer","25-34","A/B","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+85,"Arequipa Cercado","Mujer","35-44","D/E","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+86,"Miraflores","Mujer","25-34","C","Otros","Otros","Ricardo Ramírez del Villar",1
+87,"Paucarpata","Hombre","18-24","D/E","José Luna Gálvez","Amalia Palomino Pacheco","N.S/N.O",1
+88,"Miraflores","Mujer","25-34","D/E","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+89,"Arequipa Cercado","Hombre","45-54","C","Carlos Álvarez Loayza","N.S/N.O","Otros",1
+90,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+91,"Miraflores","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+92,"Socabaya","Hombre","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+93,"Yanahuara","Hombre","35-44","D/E","Roberto Sánchez Palomino","Otros","Otros",1
+94,"Cayma","Hombre","25-34","C","Otros","Esdras Medina Minaya","N.S/N.O",1
+95,"Mariano Melgar","Mujer","25-34","D/E","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+96,"Cerro Colorado","Hombre","18-24","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+97,"Mariano Melgar","Hombre","55-70","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+98,"Socabaya","Hombre","55-70","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+99,"Paucarpata","Mujer","25-34","D/E","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+100,"Cerro Colorado","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+101,"Mariano Melgar","Mujer","25-34","C","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+102,"Cayma","Mujer","35-44","D/E","Keiko Fujimori Higuchi","Otros","N.S/N.O",1
+103,"Cayma","Hombre","18-24","D/E","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+104,"José Luis Bustamante y Rivero","Mujer","45-54","A/B","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+105,"Cayma","Mujer","18-24","D/E","Otros","N.S/N.O","N.S/N.O",1
+106,"Arequipa Cercado","Mujer","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+107,"Paucarpata","Mujer","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+108,"Socabaya","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+109,"Paucarpata","Mujer","35-44","C","Rafael López Aliaga","Mauricio Alosilla Chambi","N.S/N.O",1
+110,"Cayma","Mujer","18-24","A/B","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+111,"José Luis Bustamante y Rivero","Hombre","35-44","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+112,"Yura","Mujer","25-34","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+113,"Alto Selva Alegre","Hombre","45-54","D/E","Pablo López Chau","Otros","Sergio Davila Vizcarra",1
+114,"Cerro Colorado","Hombre","35-44","C","Otros","Adolfo Donayre Sarolli","N.S/N.O",1
+115,"Cayma","Hombre","25-34","C","José Luna Gálvez","N.S/N.O","Otros",1
+116,"Alto Selva Alegre","Hombre","45-54","D/E","Otros","Otros","Sergio Davila Vizcarra",1
+117,"Yanahuara","Hombre","18-24","C","Cesar Acuña Peralta","N.S/N.O","Otros",1
+118,"Cerro Colorado","Mujer","35-44","D/E","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+119,"Cerro Colorado","Hombre","35-44","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+120,"Mariano Melgar","Mujer","35-44","D/E","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+121,"Cerro Colorado","Mujer","35-44","C","Pablo López Chau","N.S/N.O","Otros",1
+122,"Miraflores","Hombre","45-54","D/E","N.S/N.O","Mauricio Alosilla Chambi","Gustavo Rondón Fudinaga",1
+123,"Cerro Colorado","Mujer","18-24","D/E","Pablo López Chau","Otros","Ricardo Ramírez del Villar",1
+124,"Mariano Melgar","Hombre","18-24","C","Pablo López Chau","Guido del Carpio Rodriguez","Yobana Huisa Vargas",1
+125,"José Luis Bustamante y Rivero","Mujer","55-70","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+126,"Arequipa Cercado","Mujer","35-44","A/B","Otros","Esdras Medina Minaya","N.S/N.O",1
+127,"Cerro Colorado","Mujer","55-70","C","N.S/N.O","Mauricio Alosilla Chambi","A. Elmer Arenas Pérez",1
+128,"Yura","Hombre","25-34","C","Rafael López Aliaga","N.S/N.O","Gustavo Rondón Fudinaga",1
+129,"Cerro Colorado","Hombre","45-54","A/B","Pablo López Chau","Otros","N.S/N.O",1
+130,"Arequipa Cercado","Mujer","18-24","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+131,"Cerro Colorado","Hombre","55-70","C","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+132,"Cerro Colorado","Hombre","18-24","D/E","Otros","Otros","N.S/N.O",1
+133,"Yura","Mujer","55-70","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+134,"Cerro Colorado","Hombre","25-34","C","N.S/N.O","Otros","N.S/N.O",1
+135,"La Joya","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+136,"Paucarpata","Mujer","45-54","A/B","Otros","Otros","Otros",1
+137,"Socabaya","Hombre","35-44","C","Otros","Otros","N.S/N.O",1
+138,"Socabaya","Hombre","18-24","D/E","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+139,"Miraflores","Hombre","45-54","C","Rafael López Aliaga","Otros","N.S/N.O",1
+140,"Cerro Colorado","Hombre","45-54","D/E","Rafael López Aliaga","Otros","Otros",1
+141,"Mariano Melgar","Hombre","25-34","D/E","Otros","Otros","N.S/N.O",1
+142,"Arequipa Cercado","Mujer","18-24","D/E","Otros","Otros","A. Elmer Arenas Pérez",1
+143,"Mariano Melgar","Mujer","18-24","C","N.S/N.O","N.S/N.O","Otros",1
+144,"Socabaya","Hombre","18-24","C","Otros","N.S/N.O","N.S/N.O",1
+145,"Miraflores","Hombre","35-44","D/E","N.S/N.O","Otros","Yobana Huisa Vargas",1
+146,"Miraflores","Mujer","35-44","D/E","Rafael López Aliaga","N.S/N.O","Ricardo Ramírez del Villar",1
+147,"Yura","Hombre","25-34","A/B","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+148,"La Joya","Hombre","25-34","C","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+149,"Alto Selva Alegre","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+150,"Sachaca","Mujer","18-24","D/E","José Luna Gálvez","Marleny Arminta Valencia","N.S/N.O",1
+151,"Mariano Melgar","Hombre","18-24","D/E","Rafael López Aliaga","Nicolas Talavera Benavente","N.S/N.O",1
+152,"Alto Selva Alegre","Hombre","18-24","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+153,"Cayma","Mujer","25-34","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+154,"Miraflores","Hombre","25-34","D/E","Pablo López Chau","Otros","A. Elmer Arenas Pérez",1
+155,"Sachaca","Mujer","35-44","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+156,"Paucarpata","Mujer","18-24","A/B","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+157,"Paucarpata","Mujer","45-54","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+158,"Mariano Melgar","Mujer","18-24","C","Cesar Acuña Peralta","Mauricio Alosilla Chambi","N.S/N.O",1
+159,"Cerro Colorado","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+160,"Cerro Colorado","Hombre","18-24","D/E","Otros","Esdras Medina Minaya","Sergio Davila Vizcarra",1
+161,"Paucarpata","Mujer","25-34","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+162,"Mariano Melgar","Hombre","35-44","D/E","N.S/N.O","Cosme Huaman Sánchez","Sergio Davila Vizcarra",1
+163,"Cerro Colorado","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+164,"Arequipa Cercado","Hombre","25-34","D/E","Rafael López Aliaga","Mauricio Alosilla Chambi","A. Elmer Arenas Pérez",1
+165,"Cerro Colorado","Hombre","35-44","A/B","Otros","N.S/N.O","Otros",1
+166,"Mariano Melgar","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+167,"José Luis Bustamante y Rivero","Hombre","45-54","D/E","Pablo López Chau","Marleny Arminta Valencia","N.S/N.O",1
+168,"Mariano Melgar","Hombre","25-34","D/E","Wolfgang Grozo Costa","Otros","Yobana Huisa Vargas",1
+169,"Yura","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+170,"Cerro Colorado","Mujer","35-44","D/E","Rafael López Aliaga","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+171,"Arequipa Cercado","Mujer","18-24","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+172,"Sachaca","Hombre","25-34","C","N.S/N.O","Amalia Palomino Pacheco","Gustavo Rondón Fudinaga",1
+173,"La Joya","Hombre","25-34","C","Pablo López Chau","Otros","N.S/N.O",1
+174,"Alto Selva Alegre","Hombre","25-34","D/E","Otros","Otros","N.S/N.O",1
+175,"Arequipa Cercado","Mujer","25-34","C","N.S/N.O","N.S/N.O","Otros",1
+176,"Cayma","Hombre","55-70","C","Rafael López Aliaga","Nicolas Talavera Benavente","N.S/N.O",1
+177,"Mariano Melgar","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+178,"Miraflores","Mujer","35-44","C","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+179,"Cayma","Mujer","45-54","D/E","N.S/N.O","N.S/N.O","Otros",1
+180,"Miraflores","Mujer","35-44","C","Cesar Acuña Peralta","Adolfo Donayre Sarolli","N.S/N.O",1
+181,"Paucarpata","Mujer","45-54","D/E","Cesar Acuña Peralta","N.S/N.O","Sergio Davila Vizcarra",1
+182,"Mariano Melgar","Hombre","25-34","D/E","Roberto Sánchez Palomino","Guido del Carpio Rodriguez","N.S/N.O",1
+183,"Mariano Melgar","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+184,"Yanahuara","Hombre","25-34","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+185,"Paucarpata","Hombre","18-24","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+186,"Cayma","Hombre","18-24","D/E","Otros","Otros","N.S/N.O",1
+187,"Arequipa Cercado","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","Otros",1
+188,"Cerro Colorado","Mujer","35-44","C","N.S/N.O","Adolfo Donayre Sarolli","A. Elmer Arenas Pérez",1
+189,"Paucarpata","Mujer","45-54","D/E","Rafael López Aliaga","Adolfo Donayre Sarolli","N.S/N.O",1
+190,"Arequipa Cercado","Mujer","55-70","D/E","N.S/N.O","Otros","Otros",1
+191,"Cerro Colorado","Hombre","35-44","C","Otros","Cosme Huaman Sánchez","Ricardo Ramírez del Villar",1
+192,"Yanahuara","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+193,"Paucarpata","Mujer","18-24","C","N.S/N.O","Otros","Otros",1
+194,"José Luis Bustamante y Rivero","Hombre","35-44","D/E","Rafael López Aliaga","N.S/N.O","A. Elmer Arenas Pérez",1
+195,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","Keiko Fujimori Higuchi","Nicolas Talavera Benavente","N.S/N.O",1
+196,"Sachaca","Mujer","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+197,"Socabaya","Hombre","25-34","D/E","N.S/N.O","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+198,"Mariano Melgar","Mujer","25-34","D/E","Keiko Fujimori Higuchi","Otros","N.S/N.O",1
+199,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","Otros","N.S/N.O","Ricardo Ramírez del Villar",1
+200,"José Luis Bustamante y Rivero","Hombre","18-24","D/E","Wolfgang Grozo Costa","Cosme Huaman Sánchez","N.S/N.O",1
+201,"Cerro Colorado","Mujer","25-34","C","Cesar Acuña Peralta","Mauricio Alosilla Chambi","Yobana Huisa Vargas",1
+202,"Socabaya","Mujer","25-34","D/E","Pablo López Chau","Nicolas Talavera Benavente","Yobana Huisa Vargas",1
+203,"Arequipa Cercado","Mujer","45-54","C","Wolfgang Grozo Costa","Otros","Gustavo Rondón Fudinaga",1
+204,"Paucarpata","Mujer","55-70","C","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+205,"Cayma","Mujer","45-54","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+206,"Paucarpata","Mujer","45-54","C","Otros","Guido del Carpio Rodriguez","N.S/N.O",1
+207,"Cerro Colorado","Hombre","35-44","C","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+208,"Alto Selva Alegre","Hombre","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+209,"Paucarpata","Hombre","55-70","D/E","Otros","N.S/N.O","N.S/N.O",1
+210,"Cayma","Hombre","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+211,"Cerro Colorado","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Otros",1
+212,"Cayma","Hombre","35-44","C","Rafael López Aliaga","Otros","Ricardo Ramírez del Villar",1
+213,"Cerro Colorado","Mujer","35-44","C","Cesar Acuña Peralta","N.S/N.O","Yobana Huisa Vargas",1
+214,"Paucarpata","Hombre","25-34","A/B","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+215,"Arequipa Cercado","Mujer","55-70","D/E","Rafael López Aliaga","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+216,"Cerro Colorado","Hombre","25-34","C","Carlos Álvarez Loayza","Adolfo Donayre Sarolli","N.S/N.O",1
+217,"Alto Selva Alegre","Mujer","35-44","C","José Luna Gálvez","N.S/N.O","Otros",1
+218,"Alto Selva Alegre","Mujer","18-24","A/B","Otros","Guido del Carpio Rodriguez","N.S/N.O",1
+219,"Sachaca","Mujer","35-44","D/E","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+220,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+221,"Paucarpata","Mujer","45-54","D/E","N.S/N.O","Marleny Arminta Valencia","Otros",1
+222,"Miraflores","Mujer","18-24","C","Otros","Marleny Arminta Valencia","N.S/N.O",1
+223,"Cerro Colorado","Mujer","25-34","A/B","Cesar Acuña Peralta","N.S/N.O","Gustavo Rondón Fudinaga",1
+224,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","Otros","A. Elmer Arenas Pérez",1
+225,"Cerro Colorado","Hombre","45-54","A/B","Cesar Acuña Peralta","Marleny Arminta Valencia","N.S/N.O",1
+226,"Cayma","Mujer","35-44","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+227,"Alto Selva Alegre","Hombre","35-44","C","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+228,"Alto Selva Alegre","Mujer","35-44","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+229,"Miraflores","Mujer","55-70","D/E","N.S/N.O","Otros","N.S/N.O",1
+230,"Alto Selva Alegre","Mujer","45-54","C","Rafael López Aliaga","Otros","Gustavo Rondón Fudinaga",1
+231,"Cerro Colorado","Hombre","55-70","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+232,"Miraflores","Hombre","25-34","D/E","Keiko Fujimori Higuchi","Otros","N.S/N.O",1
+233,"Alto Selva Alegre","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+234,"Cerro Colorado","Hombre","45-54","C","Otros","N.S/N.O","N.S/N.O",1
+235,"Arequipa Cercado","Hombre","55-70","D/E","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+236,"Miraflores","Hombre","55-70","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+237,"Cerro Colorado","Hombre","25-34","C","Wolfgang Grozo Costa","Otros","Ricardo Ramírez del Villar",1
+238,"Arequipa Cercado","Mujer","18-24","A/B","N.S/N.O","Otros","Otros",1
+239,"Cerro Colorado","Mujer","45-54","A/B","Otros","Marleny Arminta Valencia","Ricardo Ramírez del Villar",1
+240,"Cayma","Mujer","45-54","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+241,"Cayma","Hombre","25-34","C","Otros","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+242,"Socabaya","Mujer","25-34","D/E","Otros","Otros","A. Elmer Arenas Pérez",1
+243,"Sachaca","Hombre","18-24","A/B","N.S/N.O","Otros","N.S/N.O",1
+244,"Paucarpata","Hombre","35-44","D/E","Rafael López Aliaga","Otros","Otros",1
+245,"Miraflores","Hombre","45-54","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+246,"Cerro Colorado","Mujer","35-44","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+247,"Arequipa Cercado","Hombre","25-34","D/E","Pablo López Chau","Marleny Arminta Valencia","Sergio Davila Vizcarra",1
+248,"Cayma","Hombre","35-44","C","Otros","Guido del Carpio Rodriguez","Otros",1
+249,"Yanahuara","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+250,"Paucarpata","Hombre","35-44","D/E","Pablo López Chau","N.S/N.O","Otros",1
+251,"Cayma","Mujer","18-24","D/E","N.S/N.O","Esdras Medina Minaya","Sergio Davila Vizcarra",1
+252,"Arequipa Cercado","Mujer","18-24","D/E","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+253,"Cayma","Mujer","25-34","D/E","Keiko Fujimori Higuchi","Adolfo Donayre Sarolli","N.S/N.O",1
+254,"Cerro Colorado","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+255,"Socabaya","Hombre","35-44","C","Otros","N.S/N.O","Ricardo Ramírez del Villar",1
+256,"Paucarpata","Mujer","25-34","D/E","Keiko Fujimori Higuchi","Otros","Sergio Davila Vizcarra",1
+257,"Cayma","Hombre","45-54","D/E","Rafael López Aliaga","Otros","Ricardo Ramírez del Villar",1
+258,"Paucarpata","Mujer","18-24","C","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+259,"Yura","Hombre","25-34","D/E","N.S/N.O","Otros","Otros",1
+260,"Paucarpata","Hombre","25-34","C","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+261,"Socabaya","Hombre","55-70","D/E","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+262,"Cayma","Mujer","55-70","C","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+263,"Mariano Melgar","Hombre","45-54","D/E","Pablo López Chau","Otros","N.S/N.O",1
+264,"Cayma","Hombre","18-24","D/E","Roberto Sánchez Palomino","Otros","Yobana Huisa Vargas",1
+265,"Sachaca","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+266,"Cayma","Mujer","55-70","D/E","José Luna Gálvez","Esdras Medina Minaya","Gustavo Rondón Fudinaga",1
+267,"Yanahuara","Hombre","25-34","D/E","N.S/N.O","Marleny Arminta Valencia","Yobana Huisa Vargas",1
+268,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+269,"Alto Selva Alegre","Hombre","55-70","C","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+270,"Miraflores","Mujer","18-24","C","Carlos Álvarez Loayza","Marleny Arminta Valencia","N.S/N.O",1
+271,"Cerro Colorado","Hombre","18-24","A/B","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+272,"La Joya","Mujer","25-34","A/B","José Luna Gálvez","Otros","Ricardo Ramírez del Villar",1
+273,"Mariano Melgar","Mujer","25-34","A/B","Cesar Acuña Peralta","Guido del Carpio Rodriguez","A. Elmer Arenas Pérez",1
+274,"Paucarpata","Hombre","45-54","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+275,"José Luis Bustamante y Rivero","Hombre","25-34","A/B","N.S/N.O","Marleny Arminta Valencia","Otros",1
+276,"Yanahuara","Mujer","18-24","C","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+277,"Socabaya","Hombre","45-54","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+278,"Cayma","Hombre","35-44","A/B","N.S/N.O","Otros","Otros",1
+279,"La Joya","Hombre","55-70","A/B","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+280,"Cayma","Hombre","18-24","C","N.S/N.O","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+281,"Cayma","Hombre","18-24","C","Keiko Fujimori Higuchi","N.S/N.O","Otros",1
+282,"Yanahuara","Hombre","55-70","A/B","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+283,"Cerro Colorado","Hombre","18-24","C","Roberto Sánchez Palomino","Otros","Yobana Huisa Vargas",1
+284,"Miraflores","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+285,"Cerro Colorado","Hombre","25-34","D/E","Otros","N.S/N.O","Otros",1
+286,"Alto Selva Alegre","Mujer","25-34","C","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+287,"Yura","Mujer","25-34","D/E","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+288,"Yanahuara","Mujer","25-34","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+289,"Socabaya","Mujer","35-44","C","N.S/N.O","Guido del Carpio Rodriguez","Sergio Davila Vizcarra",1
+290,"Arequipa Cercado","Hombre","25-34","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+291,"Cayma","Mujer","18-24","C","Pablo López Chau","Esdras Medina Minaya","Yobana Huisa Vargas",1
+292,"Paucarpata","Hombre","18-24","D/E","Roberto Sánchez Palomino","N.S/N.O","Ricardo Ramírez del Villar",1
+293,"Socabaya","Mujer","35-44","A/B","Roberto Sánchez Palomino","Nicolas Talavera Benavente","Ricardo Ramírez del Villar",1
+294,"Miraflores","Mujer","25-34","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+295,"Alto Selva Alegre","Mujer","35-44","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+296,"Paucarpata","Mujer","18-24","C","Keiko Fujimori Higuchi","Otros","N.S/N.O",1
+297,"Cayma","Mujer","45-54","A/B","Otros","N.S/N.O","Otros",1
+298,"Cayma","Mujer","18-24","D/E","Roberto Sánchez Palomino","N.S/N.O","Yobana Huisa Vargas",1
+299,"Cayma","Hombre","25-34","C","N.S/N.O","N.S/N.O","Otros",1
+300,"Mariano Melgar","Hombre","35-44","C","N.S/N.O","Otros","N.S/N.O",1
+301,"Alto Selva Alegre","Mujer","35-44","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+302,"Miraflores","Hombre","55-70","D/E","Otros","Mauricio Alosilla Chambi","Otros",1
+303,"Cayma","Mujer","55-70","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+304,"Paucarpata","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+305,"Cayma","Mujer","25-34","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+306,"Arequipa Cercado","Hombre","25-34","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+307,"Socabaya","Mujer","25-34","C","N.S/N.O","N.S/N.O","Otros",1
+308,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+309,"Paucarpata","Hombre","55-70","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+310,"Yura","Mujer","45-54","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+311,"Cayma","Hombre","55-70","D/E","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+312,"Cerro Colorado","Mujer","55-70","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+313,"Sachaca","Mujer","25-34","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+314,"Yanahuara","Hombre","55-70","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+315,"Miraflores","Hombre","25-34","C","José Luna Gálvez","Otros","N.S/N.O",1
+316,"Cerro Colorado","Hombre","45-54","D/E","Otros","Guido del Carpio Rodriguez","N.S/N.O",1
+317,"Alto Selva Alegre","Hombre","55-70","A/B","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+318,"Yanahuara","Hombre","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+319,"Cayma","Hombre","55-70","C","Rafael López Aliaga","N.S/N.O","Gustavo Rondón Fudinaga",1
+320,"Miraflores","Mujer","18-24","A/B","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+321,"La Joya","Mujer","18-24","C","Otros","Marleny Arminta Valencia","Ricardo Ramírez del Villar",1
+322,"Paucarpata","Hombre","35-44","D/E","Otros","Adolfo Donayre Sarolli","Sergio Davila Vizcarra",1
+323,"José Luis Bustamante y Rivero","Mujer","55-70","D/E","Rafael López Aliaga","Otros","N.S/N.O",1
+324,"José Luis Bustamante y Rivero","Hombre","45-54","A/B","Wolfgang Grozo Costa","Guido del Carpio Rodriguez","Ricardo Ramírez del Villar",1
+325,"Arequipa Cercado","Hombre","45-54","A/B","Pablo López Chau","Otros","N.S/N.O",1
+326,"Arequipa Cercado","Mujer","25-34","C","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+327,"Sachaca","Hombre","55-70","A/B","Keiko Fujimori Higuchi","N.S/N.O","Sergio Davila Vizcarra",1
+328,"Miraflores","Hombre","25-34","A/B","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+329,"Socabaya","Hombre","35-44","C","Keiko Fujimori Higuchi","Otros","Sergio Davila Vizcarra",1
+330,"José Luis Bustamante y Rivero","Hombre","25-34","A/B","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+331,"Cerro Colorado","Hombre","25-34","A/B","Carlos Álvarez Loayza","N.S/N.O","Otros",1
+332,"Arequipa Cercado","Hombre","35-44","C","Otros","N.S/N.O","N.S/N.O",1
+333,"Cerro Colorado","Hombre","18-24","C","Rafael López Aliaga","Esdras Medina Minaya","Otros",1
+334,"Miraflores","Hombre","35-44","D/E","Wolfgang Grozo Costa","Otros","Otros",1
+335,"Alto Selva Alegre","Hombre","18-24","D/E","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+336,"José Luis Bustamante y Rivero","Hombre","35-44","D/E","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+337,"Cerro Colorado","Hombre","18-24","D/E","N.S/N.O","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+338,"Sachaca","Hombre","18-24","A/B","Pablo López Chau","Otros","N.S/N.O",1
+339,"José Luis Bustamante y Rivero","Hombre","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+340,"La Joya","Hombre","45-54","A/B","Carlos Álvarez Loayza","Guido del Carpio Rodriguez","N.S/N.O",1
+341,"Sachaca","Hombre","25-34","D/E","Keiko Fujimori Higuchi","N.S/N.O","Otros",1
+342,"Mariano Melgar","Mujer","18-24","C","Rafael López Aliaga","Cosme Huaman Sánchez","Ricardo Ramírez del Villar",1
+343,"Cerro Colorado","Mujer","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+344,"Arequipa Cercado","Mujer","35-44","D/E","N.S/N.O","Guido del Carpio Rodriguez","A. Elmer Arenas Pérez",1
+345,"Cerro Colorado","Mujer","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+346,"Cayma","Mujer","35-44","C","Rafael López Aliaga","N.S/N.O","Ricardo Ramírez del Villar",1
+347,"José Luis Bustamante y Rivero","Hombre","35-44","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+348,"Cerro Colorado","Hombre","55-70","D/E","Wolfgang Grozo Costa","Otros","Gustavo Rondón Fudinaga",1
+349,"Socabaya","Hombre","45-54","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+350,"Paucarpata","Hombre","25-34","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+351,"Arequipa Cercado","Mujer","25-34","D/E","Keiko Fujimori Higuchi","N.S/N.O","Otros",1
+352,"Alto Selva Alegre","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+353,"Arequipa Cercado","Hombre","55-70","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+354,"Cayma","Hombre","35-44","C","Keiko Fujimori Higuchi","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+355,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Otros",1
+356,"Mariano Melgar","Mujer","25-34","C","Pablo López Chau","Otros","Gustavo Rondón Fudinaga",1
+357,"Alto Selva Alegre","Hombre","55-70","A/B","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+358,"Yanahuara","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+359,"Paucarpata","Hombre","35-44","A/B","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+360,"Socabaya","Hombre","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+361,"Socabaya","Hombre","55-70","C","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+362,"Cayma","Hombre","35-44","C","Keiko Fujimori Higuchi","N.S/N.O","Ricardo Ramírez del Villar",1
+363,"Arequipa Cercado","Hombre","18-24","D/E","Otros","Otros","N.S/N.O",1
+364,"Cayma","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+365,"La Joya","Mujer","18-24","C","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+366,"Cerro Colorado","Hombre","35-44","D/E","José Luna Gálvez","Otros","N.S/N.O",1
+367,"Paucarpata","Mujer","35-44","C","N.S/N.O","Otros","N.S/N.O",1
+368,"Yanahuara","Hombre","55-70","C","N.S/N.O","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+369,"Cayma","Mujer","25-34","D/E","José Luna Gálvez","Mauricio Alosilla Chambi","N.S/N.O",1
+370,"Sachaca","Hombre","45-54","D/E","N.S/N.O","Amalia Palomino Pacheco","Otros",1
+371,"La Joya","Mujer","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+372,"Miraflores","Hombre","25-34","D/E","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+373,"Socabaya","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+374,"Yura","Hombre","18-24","D/E","Pablo López Chau","Amalia Palomino Pacheco","N.S/N.O",1
+375,"Alto Selva Alegre","Hombre","35-44","D/E","Carlos Álvarez Loayza","Otros","Otros",1
+376,"José Luis Bustamante y Rivero","Mujer","18-24","C","Wolfgang Grozo Costa","Esdras Medina Minaya","Yobana Huisa Vargas",1
+377,"Socabaya","Hombre","25-34","A/B","Carlos Álvarez Loayza","N.S/N.O","Yobana Huisa Vargas",1
+378,"Miraflores","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+379,"Arequipa Cercado","Mujer","55-70","C","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+380,"Alto Selva Alegre","Mujer","35-44","D/E","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+381,"Sachaca","Hombre","45-54","C","Pablo López Chau","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+382,"José Luis Bustamante y Rivero","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+383,"Cayma","Mujer","18-24","D/E","Otros","N.S/N.O","N.S/N.O",1
+384,"Miraflores","Hombre","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+385,"Socabaya","Mujer","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+386,"José Luis Bustamante y Rivero","Mujer","25-34","A/B","Cesar Acuña Peralta","Otros","Otros",1
+387,"Cerro Colorado","Hombre","25-34","C","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+388,"Cerro Colorado","Mujer","45-54","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+389,"José Luis Bustamante y Rivero","Hombre","18-24","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+390,"Cayma","Mujer","18-24","D/E","Carlos Álvarez Loayza","N.S/N.O","Gustavo Rondón Fudinaga",1
+391,"Miraflores","Hombre","35-44","C","Wolfgang Grozo Costa","Adolfo Donayre Sarolli","Otros",1
+392,"Alto Selva Alegre","Mujer","45-54","C","Rafael López Aliaga","N.S/N.O","Yobana Huisa Vargas",1
+393,"Cerro Colorado","Hombre","18-24","C","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+394,"Socabaya","Mujer","25-34","D/E","Rafael López Aliaga","Otros","Sergio Davila Vizcarra",1
+395,"Alto Selva Alegre","Mujer","25-34","D/E","Rafael López Aliaga","Nicolas Talavera Benavente","Otros",1
+396,"Arequipa Cercado","Mujer","55-70","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+397,"Paucarpata","Mujer","35-44","D/E","Otros","N.S/N.O","N.S/N.O",1
+398,"Yanahuara","Hombre","18-24","C","N.S/N.O","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+399,"Cerro Colorado","Mujer","18-24","C","Pablo López Chau","Otros","Otros",1
+400,"La Joya","Hombre","35-44","A/B","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+401,"Socabaya","Hombre","45-54","C","Cesar Acuña Peralta","Otros","N.S/N.O",1
+402,"Alto Selva Alegre","Hombre","45-54","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+403,"Cerro Colorado","Hombre","45-54","C","Keiko Fujimori Higuchi","Cosme Huaman Sánchez","Otros",1
+404,"Cerro Colorado","Mujer","25-34","A/B","Keiko Fujimori Higuchi","N.S/N.O","Gustavo Rondón Fudinaga",1
+405,"Sachaca","Mujer","25-34","C","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+406,"Cerro Colorado","Mujer","18-24","D/E","Otros","N.S/N.O","A. Elmer Arenas Pérez",1
+407,"Yura","Mujer","35-44","C","Rafael López Aliaga","Otros","N.S/N.O",1
+408,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+409,"La Joya","Mujer","45-54","A/B","Carlos Álvarez Loayza","Nicolas Talavera Benavente","N.S/N.O",1
+410,"Arequipa Cercado","Mujer","35-44","C","N.S/N.O","Otros","N.S/N.O",1
+411,"Mariano Melgar","Mujer","25-34","C","Keiko Fujimori Higuchi","Mauricio Alosilla Chambi","N.S/N.O",1
+412,"Sachaca","Mujer","35-44","C","Otros","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+413,"Miraflores","Mujer","45-54","C","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+414,"Yura","Mujer","55-70","D/E","Otros","Adolfo Donayre Sarolli","A. Elmer Arenas Pérez",1
+415,"Paucarpata","Mujer","45-54","D/E","Pablo López Chau","Otros","N.S/N.O",1
+416,"Arequipa Cercado","Hombre","25-34","C","Otros","Cosme Huaman Sánchez","N.S/N.O",1
+417,"Cerro Colorado","Hombre","25-34","C","Otros","Otros","N.S/N.O",1
+418,"Paucarpata","Mujer","55-70","C","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+419,"Arequipa Cercado","Mujer","45-54","D/E","N.S/N.O","Marleny Arminta Valencia","Otros",1
+420,"Cayma","Hombre","25-34","D/E","Wolfgang Grozo Costa","Otros","Sergio Davila Vizcarra",1
+421,"Alto Selva Alegre","Hombre","18-24","C","Otros","N.S/N.O","N.S/N.O",1
+422,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","Carlos Álvarez Loayza","Mauricio Alosilla Chambi","Gustavo Rondón Fudinaga",1
+423,"Arequipa Cercado","Mujer","25-34","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+424,"La Joya","Hombre","55-70","C","Otros","N.S/N.O","N.S/N.O",1
+425,"Paucarpata","Mujer","45-54","C","Otros","Esdras Medina Minaya","N.S/N.O",1
+426,"Yanahuara","Hombre","35-44","C","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+427,"José Luis Bustamante y Rivero","Mujer","18-24","C","Wolfgang Grozo Costa","N.S/N.O","Otros",1
+428,"Cerro Colorado","Mujer","35-44","C","Cesar Acuña Peralta","Otros","Ricardo Ramírez del Villar",1
+429,"Cerro Colorado","Hombre","25-34","C","Otros","N.S/N.O","N.S/N.O",1
+430,"Cayma","Hombre","18-24","D/E","Otros","N.S/N.O","N.S/N.O",1
+431,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+432,"Paucarpata","Mujer","25-34","D/E","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+433,"Arequipa Cercado","Mujer","25-34","D/E","N.S/N.O","Esdras Medina Minaya","Gustavo Rondón Fudinaga",1
+434,"Alto Selva Alegre","Mujer","45-54","D/E","Roberto Sánchez Palomino","Cosme Huaman Sánchez","N.S/N.O",1
+435,"Alto Selva Alegre","Hombre","35-44","D/E","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+436,"Cerro Colorado","Mujer","55-70","A/B","Otros","Cosme Huaman Sánchez","N.S/N.O",1
+437,"Cerro Colorado","Mujer","18-24","D/E","N.S/N.O","Guido del Carpio Rodriguez","Gustavo Rondón Fudinaga",1
+438,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+439,"Alto Selva Alegre","Hombre","35-44","C","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+440,"Miraflores","Hombre","25-34","C","Roberto Sánchez Palomino","N.S/N.O","Sergio Davila Vizcarra",1
+441,"Arequipa Cercado","Hombre","35-44","D/E","Wolfgang Grozo Costa","Marleny Arminta Valencia","N.S/N.O",1
+442,"Mariano Melgar","Hombre","25-34","D/E","Carlos Álvarez Loayza","Otros","Otros",1
+443,"Arequipa Cercado","Hombre","25-34","C","Keiko Fujimori Higuchi","Marleny Arminta Valencia","N.S/N.O",1
+444,"Cerro Colorado","Hombre","18-24","D/E","N.S/N.O","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+445,"José Luis Bustamante y Rivero","Mujer","45-54","C","N.S/N.O","Otros","N.S/N.O",1
+446,"Alto Selva Alegre","Mujer","55-70","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+447,"Alto Selva Alegre","Mujer","35-44","A/B","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+448,"Alto Selva Alegre","Mujer","35-44","D/E","Cesar Acuña Peralta","Adolfo Donayre Sarolli","N.S/N.O",1
+449,"Paucarpata","Hombre","18-24","A/B","Roberto Sánchez Palomino","Amalia Palomino Pacheco","N.S/N.O",1
+450,"Cayma","Mujer","55-70","D/E","N.S/N.O","Otros","N.S/N.O",1
+451,"Socabaya","Hombre","35-44","D/E","Otros","N.S/N.O","Otros",1
+452,"Cerro Colorado","Hombre","25-34","C","Cesar Acuña Peralta","Otros","N.S/N.O",1
+453,"Cayma","Hombre","55-70","A/B","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+454,"José Luis Bustamante y Rivero","Hombre","45-54","C","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+455,"Cayma","Mujer","25-34","C","Otros","Cosme Huaman Sánchez","N.S/N.O",1
+456,"Arequipa Cercado","Hombre","25-34","C","Wolfgang Grozo Costa","Marleny Arminta Valencia","N.S/N.O",1
+457,"Socabaya","Hombre","25-34","D/E","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+458,"Miraflores","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","Otros",1
+459,"Socabaya","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","Otros",1
+460,"Arequipa Cercado","Hombre","55-70","D/E","N.S/N.O","Amalia Palomino Pacheco","Sergio Davila Vizcarra",1
+461,"Cayma","Hombre","55-70","C","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+462,"Arequipa Cercado","Hombre","45-54","A/B","Wolfgang Grozo Costa","Otros","Ricardo Ramírez del Villar",1
+463,"Paucarpata","Mujer","18-24","D/E","Otros","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+464,"Paucarpata","Hombre","35-44","D/E","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+465,"Miraflores","Mujer","25-34","A/B","Pablo López Chau","Nicolas Talavera Benavente","N.S/N.O",1
+466,"Cerro Colorado","Hombre","45-54","D/E","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+467,"Cayma","Hombre","55-70","C","Rafael López Aliaga","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+468,"Yura","Mujer","35-44","C","Wolfgang Grozo Costa","N.S/N.O","Otros",1
+469,"Mariano Melgar","Hombre","55-70","C","Otros","Otros","N.S/N.O",1
+470,"Cerro Colorado","Hombre","25-34","A/B","José Luna Gálvez","N.S/N.O","Gustavo Rondón Fudinaga",1
+471,"Alto Selva Alegre","Mujer","35-44","D/E","Rafael López Aliaga","Otros","Sergio Davila Vizcarra",1
+472,"Mariano Melgar","Mujer","25-34","A/B","Otros","Otros","N.S/N.O",1
+473,"Yanahuara","Mujer","18-24","D/E","Pablo López Chau","Amalia Palomino Pacheco","Gustavo Rondón Fudinaga",1
+474,"Cerro Colorado","Hombre","25-34","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+475,"Sachaca","Mujer","25-34","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+476,"Paucarpata","Mujer","18-24","C","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+477,"Cerro Colorado","Mujer","35-44","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+478,"Paucarpata","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+479,"Paucarpata","Hombre","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+480,"Arequipa Cercado","Mujer","35-44","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+481,"Yura","Mujer","45-54","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+482,"Cayma","Hombre","35-44","C","Wolfgang Grozo Costa","Cosme Huaman Sánchez","Gustavo Rondón Fudinaga",1
+483,"José Luis Bustamante y Rivero","Hombre","35-44","C","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+484,"Cerro Colorado","Hombre","25-34","D/E","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+485,"Cerro Colorado","Hombre","25-34","C","Roberto Sánchez Palomino","N.S/N.O","Otros",1
+486,"Cerro Colorado","Mujer","25-34","D/E","Otros","Otros","Otros",1
+487,"Cayma","Mujer","45-54","D/E","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+488,"Arequipa Cercado","Mujer","45-54","D/E","N.S/N.O","Nicolas Talavera Benavente","Yobana Huisa Vargas",1
+489,"José Luis Bustamante y Rivero","Mujer","45-54","C","Otros","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+490,"La Joya","Hombre","35-44","C","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+491,"Arequipa Cercado","Hombre","45-54","C","N.S/N.O","Marleny Arminta Valencia","Sergio Davila Vizcarra",1
+492,"Paucarpata","Mujer","35-44","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+493,"Mariano Melgar","Hombre","45-54","C","José Luna Gálvez","Otros","Gustavo Rondón Fudinaga",1
+494,"Sachaca","Hombre","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+495,"Mariano Melgar","Hombre","18-24","C","Rafael López Aliaga","Guido del Carpio Rodriguez","N.S/N.O",1
+496,"Cerro Colorado","Mujer","25-34","D/E","Otros","Marleny Arminta Valencia","N.S/N.O",1
+497,"Cerro Colorado","Hombre","25-34","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+498,"Cerro Colorado","Hombre","35-44","C","Rafael López Aliaga","N.S/N.O","Gustavo Rondón Fudinaga",1
+499,"Miraflores","Mujer","45-54","D/E","Keiko Fujimori Higuchi","Esdras Medina Minaya","Yobana Huisa Vargas",1
+500,"Mariano Melgar","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+501,"José Luis Bustamante y Rivero","Hombre","18-24","C","Pablo López Chau","Otros","N.S/N.O",1
+502,"Paucarpata","Hombre","35-44","C","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+503,"Cerro Colorado","Hombre","35-44","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+504,"Paucarpata","Mujer","25-34","C","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+505,"Arequipa Cercado","Mujer","55-70","C","Otros","N.S/N.O","N.S/N.O",1
+506,"Miraflores","Hombre","25-34","D/E","N.S/N.O","Cosme Huaman Sánchez","Otros",1
+507,"Alto Selva Alegre","Mujer","18-24","C","Otros","N.S/N.O","A. Elmer Arenas Pérez",1
+508,"La Joya","Mujer","25-34","C","N.S/N.O","Amalia Palomino Pacheco","A. Elmer Arenas Pérez",1
+509,"Socabaya","Mujer","35-44","D/E","Cesar Acuña Peralta","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+510,"Socabaya","Hombre","18-24","D/E","Wolfgang Grozo Costa","Otros","Gustavo Rondón Fudinaga",1
+511,"Cerro Colorado","Mujer","25-34","A/B","N.S/N.O","Otros","Ricardo Ramírez del Villar",1
+512,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+513,"Mariano Melgar","Mujer","45-54","D/E","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+514,"Arequipa Cercado","Hombre","35-44","D/E","José Luna Gálvez","Otros","Ricardo Ramírez del Villar",1
+515,"Socabaya","Hombre","35-44","A/B","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+516,"Paucarpata","Hombre","25-34","C","Carlos Álvarez Loayza","Esdras Medina Minaya","Gustavo Rondón Fudinaga",1
+517,"Socabaya","Hombre","35-44","C","N.S/N.O","Otros","Yobana Huisa Vargas",1
+518,"Mariano Melgar","Hombre","25-34","D/E","N.S/N.O","Guido del Carpio Rodriguez","Gustavo Rondón Fudinaga",1
+519,"Socabaya","Hombre","35-44","C","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+520,"Paucarpata","Mujer","35-44","D/E","Otros","Otros","A. Elmer Arenas Pérez",1
+521,"Yura","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+522,"Sachaca","Hombre","18-24","C","Otros","Mauricio Alosilla Chambi","A. Elmer Arenas Pérez",1
+523,"Socabaya","Mujer","18-24","A/B","Otros","Marleny Arminta Valencia","N.S/N.O",1
+524,"Miraflores","Mujer","55-70","A/B","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+525,"Cerro Colorado","Hombre","18-24","C","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+526,"Mariano Melgar","Hombre","18-24","C","Otros","N.S/N.O","Otros",1
+527,"Cerro Colorado","Hombre","18-24","A/B","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+528,"Yanahuara","Mujer","25-34","D/E","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+529,"Mariano Melgar","Hombre","55-70","D/E","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+530,"Arequipa Cercado","Mujer","55-70","D/E","Rafael López Aliaga","N.S/N.O","Otros",1
+531,"Alto Selva Alegre","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+532,"Cerro Colorado","Mujer","55-70","A/B","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+533,"Alto Selva Alegre","Hombre","25-34","A/B","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+534,"Paucarpata","Hombre","25-34","D/E","Cesar Acuña Peralta","Mauricio Alosilla Chambi","Otros",1
+535,"José Luis Bustamante y Rivero","Mujer","45-54","A/B","N.S/N.O","Nicolas Talavera Benavente","A. Elmer Arenas Pérez",1
+536,"Cerro Colorado","Hombre","18-24","C","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+537,"Socabaya","Mujer","25-34","C","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+538,"José Luis Bustamante y Rivero","Mujer","35-44","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+539,"Yura","Hombre","18-24","C","Cesar Acuña Peralta","Otros","Otros",1
+540,"José Luis Bustamante y Rivero","Hombre","25-34","C","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+541,"José Luis Bustamante y Rivero","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+542,"Arequipa Cercado","Hombre","35-44","C","Cesar Acuña Peralta","Marleny Arminta Valencia","N.S/N.O",1
+543,"José Luis Bustamante y Rivero","Hombre","25-34","C","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+544,"Miraflores","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","A. Elmer Arenas Pérez",1
+545,"Paucarpata","Hombre","18-24","C","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+546,"La Joya","Mujer","55-70","A/B","Cesar Acuña Peralta","Otros","N.S/N.O",1
+547,"Cerro Colorado","Hombre","45-54","D/E","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+548,"Cayma","Mujer","35-44","A/B","Otros","Cosme Huaman Sánchez","Otros",1
+549,"Arequipa Cercado","Mujer","45-54","D/E","Rafael López Aliaga","N.S/N.O","A. Elmer Arenas Pérez",1
+550,"Alto Selva Alegre","Mujer","35-44","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+551,"Miraflores","Mujer","45-54","C","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+552,"Arequipa Cercado","Hombre","35-44","D/E","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+553,"La Joya","Hombre","25-34","A/B","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+554,"Yanahuara","Mujer","45-54","C","Cesar Acuña Peralta","N.S/N.O","A. Elmer Arenas Pérez",1
+555,"Paucarpata","Hombre","25-34","A/B","Keiko Fujimori Higuchi","Otros","Otros",1
+556,"Cayma","Mujer","55-70","C","N.S/N.O","N.S/N.O","Otros",1
+557,"Miraflores","Mujer","45-54","D/E","Roberto Sánchez Palomino","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+558,"Alto Selva Alegre","Hombre","55-70","C","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+559,"Arequipa Cercado","Hombre","55-70","D/E","Otros","N.S/N.O","N.S/N.O",1
+560,"Paucarpata","Mujer","18-24","C","Roberto Sánchez Palomino","N.S/N.O","A. Elmer Arenas Pérez",1
+561,"Cerro Colorado","Hombre","35-44","D/E","Otros","Marleny Arminta Valencia","Otros",1
+562,"Cerro Colorado","Hombre","25-34","A/B","Roberto Sánchez Palomino","Guido del Carpio Rodriguez","Sergio Davila Vizcarra",1
+563,"Cerro Colorado","Hombre","35-44","D/E","Cesar Acuña Peralta","Otros","N.S/N.O",1
+564,"Cerro Colorado","Hombre","18-24","D/E","N.S/N.O","Amalia Palomino Pacheco","Yobana Huisa Vargas",1
+565,"Paucarpata","Mujer","55-70","D/E","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+566,"Yanahuara","Mujer","35-44","C","Carlos Álvarez Loayza","N.S/N.O","Otros",1
+567,"Arequipa Cercado","Mujer","18-24","A/B","Keiko Fujimori Higuchi","Otros","Gustavo Rondón Fudinaga",1
+568,"Alto Selva Alegre","Hombre","18-24","D/E","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+569,"Alto Selva Alegre","Hombre","25-34","A/B","N.S/N.O","Guido del Carpio Rodriguez","Gustavo Rondón Fudinaga",1
+570,"Arequipa Cercado","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+571,"Cerro Colorado","Hombre","55-70","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+572,"Paucarpata","Hombre","45-54","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+573,"Paucarpata","Hombre","25-34","C","Cesar Acuña Peralta","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+574,"La Joya","Mujer","35-44","D/E","Rafael López Aliaga","Amalia Palomino Pacheco","A. Elmer Arenas Pérez",1
+575,"Cerro Colorado","Mujer","45-54","D/E","Wolfgang Grozo Costa","Cosme Huaman Sánchez","N.S/N.O",1
+576,"Cayma","Mujer","35-44","A/B","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+577,"Cerro Colorado","Mujer","45-54","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+578,"Cayma","Mujer","35-44","A/B","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+579,"Paucarpata","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+580,"Arequipa Cercado","Mujer","25-34","D/E","Cesar Acuña Peralta","Esdras Medina Minaya","N.S/N.O",1
+581,"Paucarpata","Hombre","45-54","A/B","N.S/N.O","Amalia Palomino Pacheco","Ricardo Ramírez del Villar",1
+582,"José Luis Bustamante y Rivero","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","Otros",1
+583,"José Luis Bustamante y Rivero","Hombre","25-34","D/E","Keiko Fujimori Higuchi","Otros","N.S/N.O",1
+584,"Socabaya","Hombre","45-54","D/E","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+585,"Cerro Colorado","Hombre","45-54","A/B","Pablo López Chau","Otros","Yobana Huisa Vargas",1
+586,"Cerro Colorado","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+587,"José Luis Bustamante y Rivero","Hombre","25-34","A/B","Otros","N.S/N.O","N.S/N.O",1
+588,"Paucarpata","Mujer","35-44","D/E","N.S/N.O","Esdras Medina Minaya","Otros",1
+589,"José Luis Bustamante y Rivero","Hombre","18-24","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+590,"Cerro Colorado","Hombre","18-24","D/E","Cesar Acuña Peralta","N.S/N.O","Yobana Huisa Vargas",1
+591,"Paucarpata","Hombre","35-44","D/E","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+592,"Paucarpata","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+593,"Mariano Melgar","Mujer","45-54","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+594,"Cerro Colorado","Hombre","25-34","A/B","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+595,"Cerro Colorado","Mujer","45-54","D/E","N.S/N.O","Otros","A. Elmer Arenas Pérez",1
+596,"Sachaca","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+597,"José Luis Bustamante y Rivero","Hombre","45-54","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+598,"Arequipa Cercado","Mujer","35-44","C","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+599,"Arequipa Cercado","Mujer","35-44","D/E","Wolfgang Grozo Costa","N.S/N.O","Gustavo Rondón Fudinaga",1
+600,"Paucarpata","Mujer","35-44","D/E","Roberto Sánchez Palomino","Amalia Palomino Pacheco","Gustavo Rondón Fudinaga",1
+601,"Arequipa Cercado","Hombre","18-24","C","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+602,"Cerro Colorado","Mujer","18-24","D/E","Roberto Sánchez Palomino","N.S/N.O","Yobana Huisa Vargas",1
+603,"Arequipa Cercado","Mujer","35-44","D/E","Pablo López Chau","Esdras Medina Minaya","Sergio Davila Vizcarra",1
+604,"Mariano Melgar","Mujer","45-54","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+605,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+606,"La Joya","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Otros",1
+607,"Yanahuara","Mujer","25-34","D/E","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+608,"Socabaya","Hombre","35-44","C","Otros","Otros","Yobana Huisa Vargas",1
+609,"Arequipa Cercado","Hombre","25-34","D/E","Roberto Sánchez Palomino","Marleny Arminta Valencia","N.S/N.O",1
+610,"Arequipa Cercado","Hombre","25-34","A/B","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+611,"Mariano Melgar","Mujer","18-24","C","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+612,"Miraflores","Mujer","18-24","C","Otros","N.S/N.O","N.S/N.O",1
+613,"La Joya","Mujer","25-34","D/E","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+614,"Cayma","Hombre","55-70","D/E","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+615,"Cerro Colorado","Hombre","25-34","A/B","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+616,"Arequipa Cercado","Hombre","35-44","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+617,"Arequipa Cercado","Hombre","55-70","D/E","Pablo López Chau","Otros","Gustavo Rondón Fudinaga",1
+618,"Cerro Colorado","Mujer","25-34","A/B","Carlos Álvarez Loayza","N.S/N.O","Otros",1
+619,"Yanahuara","Mujer","45-54","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+620,"Yanahuara","Hombre","25-34","D/E","Pablo López Chau","N.S/N.O","Otros",1
+621,"Arequipa Cercado","Hombre","18-24","D/E","Wolfgang Grozo Costa","N.S/N.O","Gustavo Rondón Fudinaga",1
+622,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","Wolfgang Grozo Costa","Otros","Gustavo Rondón Fudinaga",1
+623,"Miraflores","Mujer","35-44","D/E","N.S/N.O","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+624,"Cayma","Hombre","18-24","C","N.S/N.O","Amalia Palomino Pacheco","Sergio Davila Vizcarra",1
+625,"Paucarpata","Mujer","18-24","D/E","Cesar Acuña Peralta","Otros","A. Elmer Arenas Pérez",1
+626,"Mariano Melgar","Mujer","18-24","D/E","Cesar Acuña Peralta","Cosme Huaman Sánchez","Yobana Huisa Vargas",1
+627,"Paucarpata","Mujer","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+628,"Cayma","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+629,"Cerro Colorado","Hombre","35-44","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+630,"Cerro Colorado","Mujer","25-34","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+631,"José Luis Bustamante y Rivero","Mujer","45-54","C","Keiko Fujimori Higuchi","Esdras Medina Minaya","N.S/N.O",1
+632,"Miraflores","Mujer","18-24","A/B","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+633,"Cerro Colorado","Hombre","45-54","A/B","José Luna Gálvez","Otros","N.S/N.O",1
+634,"Cerro Colorado","Hombre","25-34","C","N.S/N.O","Otros","Otros",1
+635,"Socabaya","Hombre","45-54","A/B","Otros","N.S/N.O","N.S/N.O",1
+636,"Alto Selva Alegre","Hombre","45-54","D/E","Otros","Marleny Arminta Valencia","N.S/N.O",1
+637,"Paucarpata","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+638,"Alto Selva Alegre","Hombre","45-54","D/E","Pablo López Chau","N.S/N.O","Gustavo Rondón Fudinaga",1
+639,"Mariano Melgar","Hombre","45-54","D/E","Otros","Guido del Carpio Rodriguez","N.S/N.O",1
+640,"Cerro Colorado","Mujer","35-44","D/E","Otros","Marleny Arminta Valencia","N.S/N.O",1
+641,"Alto Selva Alegre","Mujer","45-54","D/E","N.S/N.O","Esdras Medina Minaya","Yobana Huisa Vargas",1
+642,"Cayma","Hombre","35-44","C","Otros","N.S/N.O","Ricardo Ramírez del Villar",1
+643,"Alto Selva Alegre","Mujer","25-34","D/E","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+644,"Paucarpata","Mujer","25-34","A/B","Otros","Otros","N.S/N.O",1
+645,"Socabaya","Hombre","18-24","D/E","N.S/N.O","Mauricio Alosilla Chambi","Otros",1
+646,"Mariano Melgar","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+647,"Socabaya","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+648,"Cayma","Hombre","18-24","C","Pablo López Chau","Otros","Gustavo Rondón Fudinaga",1
+649,"Paucarpata","Hombre","55-70","D/E","Otros","Otros","Gustavo Rondón Fudinaga",1
+650,"Cerro Colorado","Mujer","18-24","D/E","Wolfgang Grozo Costa","Mauricio Alosilla Chambi","N.S/N.O",1
+651,"Cerro Colorado","Hombre","25-34","A/B","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+652,"Alto Selva Alegre","Mujer","55-70","D/E","Rafael López Aliaga","Otros","N.S/N.O",1
+653,"Miraflores","Hombre","35-44","D/E","Otros","N.S/N.O","N.S/N.O",1
+654,"Sachaca","Hombre","55-70","C","Rafael López Aliaga","Otros","Otros",1
+655,"Mariano Melgar","Hombre","35-44","A/B","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+656,"Cerro Colorado","Mujer","18-24","C","N.S/N.O","Otros","N.S/N.O",1
+657,"Paucarpata","Hombre","25-34","C","Wolfgang Grozo Costa","N.S/N.O","Gustavo Rondón Fudinaga",1
+658,"Cerro Colorado","Hombre","35-44","D/E","Carlos Álvarez Loayza","Esdras Medina Minaya","Otros",1
+659,"Cerro Colorado","Mujer","35-44","C","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+660,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","Carlos Álvarez Loayza","Nicolas Talavera Benavente","Yobana Huisa Vargas",1
+661,"Socabaya","Mujer","18-24","D/E","Keiko Fujimori Higuchi","Cosme Huaman Sánchez","N.S/N.O",1
+662,"Alto Selva Alegre","Mujer","25-34","D/E","N.S/N.O","Esdras Medina Minaya","Otros",1
+663,"Paucarpata","Hombre","55-70","D/E","N.S/N.O","Adolfo Donayre Sarolli","Otros",1
+664,"José Luis Bustamante y Rivero","Mujer","25-34","C","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+665,"Cerro Colorado","Mujer","45-54","C","N.S/N.O","Otros","Ricardo Ramírez del Villar",1
+666,"Yura","Mujer","45-54","C","Rafael López Aliaga","Otros","Yobana Huisa Vargas",1
+667,"Paucarpata","Mujer","35-44","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+668,"Paucarpata","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+669,"Mariano Melgar","Mujer","35-44","A/B","Pablo López Chau","Marleny Arminta Valencia","Sergio Davila Vizcarra",1
+670,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","Otros","A. Elmer Arenas Pérez",1
+671,"Socabaya","Mujer","55-70","C","N.S/N.O","N.S/N.O","Otros",1
+672,"Alto Selva Alegre","Hombre","25-34","D/E","N.S/N.O","Adolfo Donayre Sarolli","Otros",1
+673,"Yanahuara","Hombre","25-34","C","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+674,"Socabaya","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+675,"Socabaya","Hombre","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+676,"Socabaya","Hombre","25-34","D/E","Wolfgang Grozo Costa","Nicolas Talavera Benavente","Otros",1
+677,"Cayma","Hombre","18-24","C","Carlos Álvarez Loayza","Marleny Arminta Valencia","N.S/N.O",1
+678,"Cerro Colorado","Hombre","18-24","C","Roberto Sánchez Palomino","Marleny Arminta Valencia","A. Elmer Arenas Pérez",1
+679,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+680,"Arequipa Cercado","Mujer","45-54","D/E","N.S/N.O","Amalia Palomino Pacheco","Sergio Davila Vizcarra",1
+681,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+682,"Sachaca","Mujer","55-70","D/E","Wolfgang Grozo Costa","Adolfo Donayre Sarolli","N.S/N.O",1
+683,"José Luis Bustamante y Rivero","Mujer","25-34","A/B","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+684,"Paucarpata","Mujer","35-44","D/E","Cesar Acuña Peralta","N.S/N.O","Sergio Davila Vizcarra",1
+685,"Sachaca","Mujer","18-24","D/E","Carlos Álvarez Loayza","Nicolas Talavera Benavente","N.S/N.O",1
+686,"Cerro Colorado","Mujer","35-44","A/B","Otros","Guido del Carpio Rodriguez","Ricardo Ramírez del Villar",1
+687,"La Joya","Mujer","55-70","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+688,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+689,"Cerro Colorado","Hombre","35-44","A/B","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+690,"Cerro Colorado","Mujer","45-54","A/B","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+691,"Paucarpata","Mujer","35-44","C","José Luna Gálvez","Marleny Arminta Valencia","N.S/N.O",1
+692,"Paucarpata","Hombre","45-54","D/E","Rafael López Aliaga","Otros","N.S/N.O",1
+693,"Cerro Colorado","Mujer","55-70","A/B","Pablo López Chau","Nicolas Talavera Benavente","Otros",1
+694,"Arequipa Cercado","Hombre","18-24","C","Wolfgang Grozo Costa","Otros","Otros",1
+695,"Cerro Colorado","Mujer","25-34","C","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+696,"Yura","Hombre","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+697,"Arequipa Cercado","Hombre","45-54","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+698,"Paucarpata","Mujer","18-24","D/E","Roberto Sánchez Palomino","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+699,"Paucarpata","Mujer","55-70","D/E","Cesar Acuña Peralta","Marleny Arminta Valencia","Sergio Davila Vizcarra",1
+700,"Mariano Melgar","Mujer","35-44","A/B","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+701,"Paucarpata","Hombre","35-44","D/E","Cesar Acuña Peralta","Esdras Medina Minaya","Otros",1
+702,"La Joya","Mujer","55-70","C","N.S/N.O","Mauricio Alosilla Chambi","Ricardo Ramírez del Villar",1
+703,"Cerro Colorado","Mujer","18-24","C","Otros","N.S/N.O","N.S/N.O",1
+704,"Paucarpata","Hombre","18-24","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+705,"Arequipa Cercado","Hombre","18-24","C","Keiko Fujimori Higuchi","Mauricio Alosilla Chambi","Gustavo Rondón Fudinaga",1
+706,"Alto Selva Alegre","Hombre","45-54","D/E","Keiko Fujimori Higuchi","N.S/N.O","Ricardo Ramírez del Villar",1
+707,"Arequipa Cercado","Mujer","45-54","A/B","Carlos Álvarez Loayza","Otros","Otros",1
+708,"Alto Selva Alegre","Hombre","25-34","D/E","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+709,"José Luis Bustamante y Rivero","Hombre","25-34","C","N.S/N.O","Otros","N.S/N.O",1
+710,"Yanahuara","Mujer","45-54","C","Otros","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+711,"José Luis Bustamante y Rivero","Hombre","35-44","C","Otros","Guido del Carpio Rodriguez","Sergio Davila Vizcarra",1
+712,"Cerro Colorado","Hombre","18-24","D/E","Rafael López Aliaga","N.S/N.O","Gustavo Rondón Fudinaga",1
+713,"Mariano Melgar","Mujer","25-34","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+714,"Yanahuara","Hombre","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+715,"José Luis Bustamante y Rivero","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+716,"Socabaya","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+717,"Cerro Colorado","Mujer","45-54","C","Pablo López Chau","Nicolas Talavera Benavente","Ricardo Ramírez del Villar",1
+718,"Paucarpata","Mujer","18-24","D/E","José Luna Gálvez","N.S/N.O","Otros",1
+719,"José Luis Bustamante y Rivero","Mujer","55-70","C","Otros","Guido del Carpio Rodriguez","N.S/N.O",1
+720,"Cerro Colorado","Mujer","25-34","D/E","Rafael López Aliaga","Adolfo Donayre Sarolli","Yobana Huisa Vargas",1
+721,"Mariano Melgar","Mujer","55-70","A/B","Cesar Acuña Peralta","Amalia Palomino Pacheco","Gustavo Rondón Fudinaga",1
+722,"Alto Selva Alegre","Mujer","35-44","C","Carlos Álvarez Loayza","Cosme Huaman Sánchez","Yobana Huisa Vargas",1
+723,"Paucarpata","Mujer","55-70","D/E","Rafael López Aliaga","Adolfo Donayre Sarolli","N.S/N.O",1
+724,"Miraflores","Hombre","55-70","D/E","N.S/N.O","Otros","N.S/N.O",1
+725,"La Joya","Hombre","35-44","D/E","Pablo López Chau","Nicolas Talavera Benavente","Sergio Davila Vizcarra",1
+726,"Cayma","Mujer","35-44","D/E","N.S/N.O","Otros","N.S/N.O",1
+727,"Socabaya","Mujer","35-44","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+728,"Socabaya","Hombre","55-70","D/E","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+729,"Cayma","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Otros",1
+730,"Socabaya","Hombre","18-24","D/E","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+731,"Yura","Mujer","35-44","D/E","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+732,"Cerro Colorado","Mujer","55-70","D/E","Keiko Fujimori Higuchi","Amalia Palomino Pacheco","N.S/N.O",1
+733,"Cayma","Mujer","45-54","C","Otros","Otros","N.S/N.O",1
+734,"Mariano Melgar","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+735,"Paucarpata","Hombre","35-44","A/B","Keiko Fujimori Higuchi","Cosme Huaman Sánchez","N.S/N.O",1
+736,"Cerro Colorado","Hombre","18-24","C","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+737,"Yanahuara","Mujer","18-24","A/B","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+738,"Yanahuara","Mujer","45-54","C","Carlos Álvarez Loayza","Esdras Medina Minaya","N.S/N.O",1
+739,"Socabaya","Mujer","25-34","C","José Luna Gálvez","Cosme Huaman Sánchez","Sergio Davila Vizcarra",1
+740,"Cerro Colorado","Mujer","25-34","C","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+741,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","Rafael López Aliaga","Nicolas Talavera Benavente","N.S/N.O",1
+742,"Alto Selva Alegre","Mujer","45-54","D/E","N.S/N.O","Guido del Carpio Rodriguez","Otros",1
+743,"Cerro Colorado","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+744,"Mariano Melgar","Mujer","35-44","D/E","Pablo López Chau","Guido del Carpio Rodriguez","N.S/N.O",1
+745,"Sachaca","Hombre","18-24","D/E","Pablo López Chau","Amalia Palomino Pacheco","N.S/N.O",1
+746,"Paucarpata","Mujer","18-24","D/E","Pablo López Chau","Adolfo Donayre Sarolli","N.S/N.O",1
+747,"Paucarpata","Mujer","35-44","A/B","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+748,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+749,"Paucarpata","Mujer","45-54","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+750,"Cayma","Mujer","18-24","C","N.S/N.O","Otros","Otros",1
+751,"Yura","Mujer","45-54","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+752,"Paucarpata","Hombre","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+753,"Paucarpata","Hombre","25-34","D/E","Rafael López Aliaga","Marleny Arminta Valencia","N.S/N.O",1
+754,"Cerro Colorado","Mujer","45-54","D/E","Otros","Otros","Otros",1
+755,"Paucarpata","Mujer","35-44","D/E","Keiko Fujimori Higuchi","Otros","Ricardo Ramírez del Villar",1
+756,"Cerro Colorado","Mujer","45-54","D/E","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+757,"La Joya","Mujer","45-54","D/E","Otros","Otros","Sergio Davila Vizcarra",1
+758,"Paucarpata","Hombre","45-54","C","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+759,"Yanahuara","Mujer","35-44","D/E","José Luna Gálvez","Otros","N.S/N.O",1
+760,"Cerro Colorado","Hombre","35-44","A/B","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+761,"Sachaca","Hombre","18-24","D/E","Carlos Álvarez Loayza","N.S/N.O","Otros",1
+762,"Alto Selva Alegre","Mujer","18-24","D/E","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+763,"Arequipa Cercado","Hombre","35-44","C","Rafael López Aliaga","N.S/N.O","Yobana Huisa Vargas",1
+764,"Sachaca","Mujer","25-34","C","N.S/N.O","N.S/N.O","Otros",1
+765,"Alto Selva Alegre","Mujer","45-54","C","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+766,"Paucarpata","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","Gustavo Rondón Fudinaga",1
+767,"Sachaca","Hombre","35-44","D/E","Pablo López Chau","Cosme Huaman Sánchez","Otros",1
+768,"Cerro Colorado","Mujer","18-24","C","Otros","N.S/N.O","N.S/N.O",1
+769,"Mariano Melgar","Hombre","35-44","C","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+770,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+771,"Mariano Melgar","Mujer","25-34","C","N.S/N.O","Otros","N.S/N.O",1
+772,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","N.S/N.O","Otros","Otros",1
+773,"Mariano Melgar","Hombre","35-44","A/B","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+774,"Miraflores","Mujer","55-70","D/E","Pablo López Chau","Marleny Arminta Valencia","Otros",1
+775,"Miraflores","Hombre","35-44","A/B","Pablo López Chau","Otros","Gustavo Rondón Fudinaga",1
+776,"Sachaca","Mujer","25-34","C","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+777,"Paucarpata","Mujer","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+778,"Alto Selva Alegre","Mujer","25-34","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+779,"Paucarpata","Hombre","55-70","D/E","Keiko Fujimori Higuchi","Amalia Palomino Pacheco","Ricardo Ramírez del Villar",1
+780,"Cayma","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Otros",1
+781,"Socabaya","Hombre","55-70","C","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+782,"Mariano Melgar","Hombre","55-70","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+783,"Cayma","Mujer","25-34","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+784,"Cerro Colorado","Hombre","55-70","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+785,"Paucarpata","Mujer","55-70","D/E","Otros","Otros","Otros",1
+786,"La Joya","Hombre","35-44","A/B","José Luna Gálvez","N.S/N.O","Sergio Davila Vizcarra",1
+787,"Arequipa Cercado","Hombre","35-44","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+788,"Paucarpata","Mujer","25-34","C","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+789,"Cerro Colorado","Mujer","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+790,"Arequipa Cercado","Mujer","55-70","A/B","N.S/N.O","Otros","N.S/N.O",1
+791,"José Luis Bustamante y Rivero","Hombre","45-54","A/B","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+792,"Alto Selva Alegre","Mujer","55-70","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+793,"Arequipa Cercado","Hombre","35-44","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+794,"Cayma","Mujer","25-34","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+795,"Cerro Colorado","Hombre","35-44","A/B","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+796,"Paucarpata","Mujer","35-44","D/E","Wolfgang Grozo Costa","Nicolas Talavera Benavente","N.S/N.O",1
+797,"Paucarpata","Mujer","35-44","C","Otros","N.S/N.O","N.S/N.O",1
+798,"Cerro Colorado","Mujer","55-70","C","Carlos Álvarez Loayza","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+799,"Yura","Mujer","55-70","D/E","Rafael López Aliaga","Amalia Palomino Pacheco","Otros",1
+800,"Paucarpata","Hombre","35-44","C","Wolfgang Grozo Costa","Otros","Yobana Huisa Vargas",1
+801,"Cayma","Mujer","25-34","D/E","Pablo López Chau","Amalia Palomino Pacheco","Gustavo Rondón Fudinaga",1
+802,"Alto Selva Alegre","Hombre","18-24","D/E","N.S/N.O","Otros","Otros",1
+803,"José Luis Bustamante y Rivero","Mujer","25-34","C","Otros","Adolfo Donayre Sarolli","N.S/N.O",1
+804,"Cerro Colorado","Mujer","35-44","D/E","Roberto Sánchez Palomino","Mauricio Alosilla Chambi","Otros",1
+805,"Paucarpata","Hombre","18-24","D/E","N.S/N.O","Otros","N.S/N.O",1
+806,"Cerro Colorado","Hombre","35-44","A/B","N.S/N.O","Otros","Yobana Huisa Vargas",1
+807,"Alto Selva Alegre","Hombre","18-24","D/E","N.S/N.O","Otros","Ricardo Ramírez del Villar",1
+808,"Arequipa Cercado","Mujer","55-70","D/E","Otros","Mauricio Alosilla Chambi","N.S/N.O",1
+809,"José Luis Bustamante y Rivero","Mujer","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+810,"Paucarpata","Mujer","25-34","C","José Luna Gálvez","N.S/N.O","Otros",1
+811,"Sachaca","Mujer","18-24","C","Roberto Sánchez Palomino","Adolfo Donayre Sarolli","N.S/N.O",1
+812,"Mariano Melgar","Hombre","18-24","D/E","N.S/N.O","Esdras Medina Minaya","Otros",1
+813,"Cayma","Mujer","25-34","A/B","Carlos Álvarez Loayza","N.S/N.O","Gustavo Rondón Fudinaga",1
+814,"Cerro Colorado","Hombre","55-70","A/B","Rafael López Aliaga","Adolfo Donayre Sarolli","Ricardo Ramírez del Villar",1
+815,"Paucarpata","Mujer","25-34","C","Carlos Álvarez Loayza","Adolfo Donayre Sarolli","N.S/N.O",1
+816,"José Luis Bustamante y Rivero","Hombre","25-34","D/E","Rafael López Aliaga","N.S/N.O","Sergio Davila Vizcarra",1
+817,"Miraflores","Mujer","55-70","C","Carlos Álvarez Loayza","Adolfo Donayre Sarolli","N.S/N.O",1
+818,"Alto Selva Alegre","Hombre","45-54","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+819,"Mariano Melgar","Hombre","18-24","D/E","N.S/N.O","Otros","Otros",1
+820,"Cayma","Mujer","35-44","D/E","N.S/N.O","Cosme Huaman Sánchez","A. Elmer Arenas Pérez",1
+821,"Cerro Colorado","Mujer","18-24","C","José Luna Gálvez","Otros","Otros",1
+822,"Arequipa Cercado","Hombre","45-54","D/E","N.S/N.O","Guido del Carpio Rodriguez","Otros",1
+823,"Cayma","Hombre","45-54","A/B","Wolfgang Grozo Costa","Nicolas Talavera Benavente","N.S/N.O",1
+824,"Paucarpata","Mujer","25-34","C","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+825,"Alto Selva Alegre","Mujer","35-44","C","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+826,"Paucarpata","Hombre","55-70","D/E","Rafael López Aliaga","N.S/N.O","Sergio Davila Vizcarra",1
+827,"Cerro Colorado","Mujer","25-34","D/E","Cesar Acuña Peralta","Esdras Medina Minaya","N.S/N.O",1
+828,"Alto Selva Alegre","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+829,"Cayma","Hombre","25-34","D/E","N.S/N.O","Esdras Medina Minaya","Yobana Huisa Vargas",1
+830,"Yura","Hombre","55-70","A/B","N.S/N.O","Cosme Huaman Sánchez","A. Elmer Arenas Pérez",1
+831,"Mariano Melgar","Hombre","35-44","C","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+832,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+833,"La Joya","Mujer","25-34","D/E","Rafael López Aliaga","N.S/N.O","Sergio Davila Vizcarra",1
+834,"Alto Selva Alegre","Hombre","45-54","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+835,"Paucarpata","Mujer","18-24","D/E","Otros","Otros","N.S/N.O",1
+836,"La Joya","Mujer","25-34","C","Rafael López Aliaga","Nicolas Talavera Benavente","Ricardo Ramírez del Villar",1
+837,"Cerro Colorado","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Otros",1
+838,"Socabaya","Hombre","55-70","C","N.S/N.O","Esdras Medina Minaya","Sergio Davila Vizcarra",1
+839,"Socabaya","Mujer","35-44","A/B","N.S/N.O","Marleny Arminta Valencia","Ricardo Ramírez del Villar",1
+840,"Socabaya","Hombre","45-54","C","Otros","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+841,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+842,"Paucarpata","Hombre","18-24","C","N.S/N.O","Otros","A. Elmer Arenas Pérez",1
+843,"Paucarpata","Mujer","25-34","D/E","Otros","Otros","N.S/N.O",1
+844,"Paucarpata","Mujer","45-54","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+845,"José Luis Bustamante y Rivero","Mujer","35-44","C","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+846,"Paucarpata","Mujer","35-44","D/E","Otros","Otros","Gustavo Rondón Fudinaga",1
+847,"Miraflores","Mujer","25-34","A/B","Rafael López Aliaga","Esdras Medina Minaya","N.S/N.O",1
+848,"La Joya","Hombre","35-44","C","N.S/N.O","Otros","N.S/N.O",1
+849,"Mariano Melgar","Mujer","18-24","C","Roberto Sánchez Palomino","Otros","Ricardo Ramírez del Villar",1
+850,"Sachaca","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+851,"Arequipa Cercado","Hombre","55-70","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+852,"Cayma","Mujer","25-34","D/E","Rafael López Aliaga","Guido del Carpio Rodriguez","N.S/N.O",1
+853,"Arequipa Cercado","Hombre","18-24","A/B","N.S/N.O","Adolfo Donayre Sarolli","Otros",1
+854,"Cayma","Hombre","45-54","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+855,"Paucarpata","Hombre","45-54","D/E","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+856,"Cerro Colorado","Hombre","18-24","D/E","N.S/N.O","Otros","Otros",1
+857,"Yura","Mujer","55-70","D/E","N.S/N.O","Otros","A. Elmer Arenas Pérez",1
+858,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","Otros","N.S/N.O","Otros",1
+859,"Cerro Colorado","Hombre","35-44","D/E","Rafael López Aliaga","Mauricio Alosilla Chambi","Sergio Davila Vizcarra",1
+860,"Alto Selva Alegre","Mujer","18-24","D/E","Otros","N.S/N.O","Otros",1
+861,"Cerro Colorado","Hombre","55-70","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+862,"Alto Selva Alegre","Hombre","55-70","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+863,"Paucarpata","Hombre","55-70","D/E","Rafael López Aliaga","Nicolas Talavera Benavente","N.S/N.O",1
+864,"Cerro Colorado","Hombre","55-70","D/E","Otros","Nicolas Talavera Benavente","N.S/N.O",1
+865,"Mariano Melgar","Mujer","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+866,"Cerro Colorado","Hombre","35-44","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+867,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","Roberto Sánchez Palomino","Amalia Palomino Pacheco","N.S/N.O",1
+868,"Cerro Colorado","Mujer","25-34","D/E","José Luna Gálvez","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+869,"José Luis Bustamante y Rivero","Hombre","35-44","C","N.S/N.O","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+870,"Cayma","Hombre","18-24","D/E","Wolfgang Grozo Costa","N.S/N.O","Otros",1
+871,"Cerro Colorado","Hombre","18-24","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+872,"Arequipa Cercado","Hombre","35-44","D/E","Pablo López Chau","Cosme Huaman Sánchez","N.S/N.O",1
+873,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","Otros","Otros",1
+874,"Arequipa Cercado","Mujer","18-24","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+875,"Yanahuara","Mujer","35-44","D/E","Wolfgang Grozo Costa","Esdras Medina Minaya","N.S/N.O",1
+876,"Yanahuara","Hombre","25-34","D/E","Otros","Marleny Arminta Valencia","Otros",1
+877,"Socabaya","Mujer","18-24","C","Rafael López Aliaga","Otros","N.S/N.O",1
+878,"Yura","Hombre","55-70","D/E","N.S/N.O","Guido del Carpio Rodriguez","Gustavo Rondón Fudinaga",1
+879,"Cayma","Hombre","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+880,"Arequipa Cercado","Mujer","45-54","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+881,"Yura","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","Otros",1
+882,"Cerro Colorado","Mujer","18-24","C","Otros","Guido del Carpio Rodriguez","Ricardo Ramírez del Villar",1
+883,"Miraflores","Mujer","55-70","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+884,"Socabaya","Hombre","18-24","C","Otros","Adolfo Donayre Sarolli","N.S/N.O",1
+885,"Alto Selva Alegre","Mujer","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+886,"Cerro Colorado","Hombre","45-54","D/E","Pablo López Chau","Otros","Ricardo Ramírez del Villar",1
+887,"José Luis Bustamante y Rivero","Mujer","35-44","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+888,"Cayma","Hombre","35-44","C","N.S/N.O","Otros","Otros",1
+889,"Alto Selva Alegre","Hombre","45-54","C","Pablo López Chau","Amalia Palomino Pacheco","N.S/N.O",1
+890,"Sachaca","Hombre","18-24","A/B","N.S/N.O","Cosme Huaman Sánchez","Sergio Davila Vizcarra",1
+891,"Cayma","Mujer","25-34","D/E","N.S/N.O","Cosme Huaman Sánchez","Yobana Huisa Vargas",1
+892,"Cayma","Mujer","18-24","A/B","N.S/N.O","Guido del Carpio Rodriguez","N.S/N.O",1
+893,"Arequipa Cercado","Hombre","55-70","C","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+894,"Miraflores","Hombre","25-34","C","Keiko Fujimori Higuchi","Adolfo Donayre Sarolli","Sergio Davila Vizcarra",1
+895,"Paucarpata","Mujer","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+896,"Cayma","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+897,"Miraflores","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+898,"Paucarpata","Mujer","35-44","C","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+899,"Cerro Colorado","Mujer","35-44","D/E","Otros","Otros","N.S/N.O",1
+900,"Cayma","Hombre","55-70","C","Keiko Fujimori Higuchi","N.S/N.O","Sergio Davila Vizcarra",1
+901,"Paucarpata","Mujer","35-44","D/E","N.S/N.O","Otros","Sergio Davila Vizcarra",1
+902,"Cerro Colorado","Hombre","55-70","D/E","Rafael López Aliaga","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+903,"Arequipa Cercado","Hombre","25-34","C","N.S/N.O","Mauricio Alosilla Chambi","N.S/N.O",1
+904,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+905,"Paucarpata","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+906,"Cayma","Hombre","25-34","A/B","Carlos Álvarez Loayza","N.S/N.O","Gustavo Rondón Fudinaga",1
+907,"Miraflores","Hombre","25-34","D/E","Otros","Cosme Huaman Sánchez","N.S/N.O",1
+908,"José Luis Bustamante y Rivero","Hombre","25-34","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+909,"Alto Selva Alegre","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+910,"Mariano Melgar","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+911,"José Luis Bustamante y Rivero","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+912,"Mariano Melgar","Mujer","45-54","D/E","N.S/N.O","Guido del Carpio Rodriguez","A. Elmer Arenas Pérez",1
+913,"Yura","Hombre","18-24","C","Roberto Sánchez Palomino","Marleny Arminta Valencia","N.S/N.O",1
+914,"Cayma","Hombre","18-24","C","Rafael López Aliaga","Otros","Gustavo Rondón Fudinaga",1
+915,"Miraflores","Hombre","35-44","A/B","Otros","N.S/N.O","N.S/N.O",1
+916,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+917,"José Luis Bustamante y Rivero","Hombre","18-24","D/E","Rafael López Aliaga","Otros","N.S/N.O",1
+918,"Miraflores","Mujer","25-34","D/E","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+919,"Alto Selva Alegre","Mujer","18-24","D/E","Roberto Sánchez Palomino","N.S/N.O","Yobana Huisa Vargas",1
+920,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+921,"Yura","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+922,"Cerro Colorado","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+923,"Yura","Mujer","18-24","C","Otros","N.S/N.O","Otros",1
+924,"Cerro Colorado","Mujer","18-24","C","Pablo López Chau","Otros","Otros",1
+925,"Arequipa Cercado","Mujer","25-34","A/B","Pablo López Chau","Otros","N.S/N.O",1
+926,"Paucarpata","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+927,"Yanahuara","Mujer","25-34","D/E","Otros","Amalia Palomino Pacheco","Ricardo Ramírez del Villar",1
+928,"Socabaya","Hombre","55-70","D/E","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+929,"Sachaca","Hombre","35-44","D/E","Wolfgang Grozo Costa","Guido del Carpio Rodriguez","Ricardo Ramírez del Villar",1
+930,"Cerro Colorado","Hombre","55-70","D/E","Roberto Sánchez Palomino","N.S/N.O","Otros",1
+931,"José Luis Bustamante y Rivero","Hombre","45-54","C","Otros","Guido del Carpio Rodriguez","N.S/N.O",1
+932,"Mariano Melgar","Mujer","25-34","D/E","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+933,"Cerro Colorado","Mujer","25-34","A/B","Otros","Cosme Huaman Sánchez","N.S/N.O",1
+934,"Alto Selva Alegre","Hombre","45-54","A/B","Keiko Fujimori Higuchi","Nicolas Talavera Benavente","N.S/N.O",1
+935,"José Luis Bustamante y Rivero","Hombre","55-70","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+936,"Paucarpata","Mujer","18-24","D/E","Pablo López Chau","Otros","N.S/N.O",1
+937,"Cerro Colorado","Hombre","35-44","C","Wolfgang Grozo Costa","Nicolas Talavera Benavente","Gustavo Rondón Fudinaga",1
+938,"Cerro Colorado","Mujer","18-24","D/E","Carlos Álvarez Loayza","Guido del Carpio Rodriguez","Sergio Davila Vizcarra",1
+939,"Cerro Colorado","Hombre","25-34","A/B","N.S/N.O","Nicolas Talavera Benavente","A. Elmer Arenas Pérez",1
+940,"La Joya","Hombre","35-44","D/E","Wolfgang Grozo Costa","N.S/N.O","Otros",1
+941,"Miraflores","Mujer","55-70","D/E","N.S/N.O","Otros","Ricardo Ramírez del Villar",1
+942,"Cerro Colorado","Hombre","18-24","C","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+943,"Cerro Colorado","Hombre","45-54","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+944,"José Luis Bustamante y Rivero","Mujer","25-34","C","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+945,"Mariano Melgar","Hombre","55-70","D/E","N.S/N.O","Adolfo Donayre Sarolli","Otros",1
+946,"Cerro Colorado","Hombre","45-54","A/B","Pablo López Chau","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+947,"Cayma","Hombre","45-54","C","N.S/N.O","Otros","A. Elmer Arenas Pérez",1
+948,"Arequipa Cercado","Mujer","35-44","D/E","Wolfgang Grozo Costa","Marleny Arminta Valencia","Otros",1
+949,"Alto Selva Alegre","Mujer","25-34","C","Cesar Acuña Peralta","N.S/N.O","Otros",1
+950,"Paucarpata","Hombre","35-44","D/E","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+951,"Sachaca","Hombre","25-34","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+952,"Mariano Melgar","Mujer","25-34","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+953,"Cerro Colorado","Mujer","18-24","D/E","Cesar Acuña Peralta","Otros","Otros",1
+954,"Cayma","Mujer","18-24","A/B","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+955,"Alto Selva Alegre","Mujer","45-54","D/E","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+956,"Paucarpata","Hombre","25-34","C","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+957,"Socabaya","Hombre","45-54","D/E","Pablo López Chau","N.S/N.O","Gustavo Rondón Fudinaga",1
+958,"Arequipa Cercado","Hombre","18-24","C","Cesar Acuña Peralta","Otros","Ricardo Ramírez del Villar",1
+959,"Yura","Hombre","35-44","C","Wolfgang Grozo Costa","N.S/N.O","Ricardo Ramírez del Villar",1
+960,"Cerro Colorado","Hombre","25-34","C","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+961,"Alto Selva Alegre","Mujer","45-54","C","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+962,"Alto Selva Alegre","Hombre","35-44","C","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+963,"Alto Selva Alegre","Mujer","25-34","D/E","Cesar Acuña Peralta","Otros","N.S/N.O",1
+964,"Cerro Colorado","Hombre","55-70","D/E","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+965,"Socabaya","Hombre","45-54","C","Pablo López Chau","Mauricio Alosilla Chambi","Otros",1
+966,"Cayma","Mujer","35-44","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+967,"Cerro Colorado","Hombre","25-34","C","Pablo López Chau","N.S/N.O","N.S/N.O",1
+968,"Cerro Colorado","Mujer","55-70","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+969,"Paucarpata","Hombre","25-34","D/E","Carlos Álvarez Loayza","N.S/N.O","Gustavo Rondón Fudinaga",1
+970,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","Otros","Marleny Arminta Valencia","Otros",1
+971,"Cerro Colorado","Mujer","35-44","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+972,"José Luis Bustamante y Rivero","Hombre","25-34","C","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+973,"Cerro Colorado","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+974,"José Luis Bustamante y Rivero","Hombre","18-24","C","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+975,"Paucarpata","Mujer","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+976,"Yanahuara","Hombre","35-44","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+977,"Paucarpata","Hombre","35-44","D/E","Otros","N.S/N.O","N.S/N.O",1
+978,"Paucarpata","Hombre","18-24","D/E","Pablo López Chau","Otros","N.S/N.O",1
+979,"Paucarpata","Hombre","35-44","D/E","Otros","N.S/N.O","N.S/N.O",1
+980,"Paucarpata","Mujer","25-34","D/E","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+981,"Miraflores","Hombre","35-44","C","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+982,"Yura","Mujer","55-70","D/E","Rafael López Aliaga","N.S/N.O","Sergio Davila Vizcarra",1
+983,"Paucarpata","Mujer","55-70","D/E","Pablo López Chau","Guido del Carpio Rodriguez","Otros",1
+984,"Cerro Colorado","Mujer","25-34","C","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+985,"Paucarpata","Hombre","18-24","D/E","José Luna Gálvez","Otros","N.S/N.O",1
+986,"Cerro Colorado","Hombre","55-70","C","Keiko Fujimori Higuchi","Otros","Sergio Davila Vizcarra",1
+987,"Socabaya","Hombre","45-54","A/B","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+988,"Arequipa Cercado","Hombre","35-44","C","Rafael López Aliaga","Marleny Arminta Valencia","N.S/N.O",1
+989,"José Luis Bustamante y Rivero","Hombre","45-54","C","Roberto Sánchez Palomino","Guido del Carpio Rodriguez","N.S/N.O",1
+990,"Socabaya","Hombre","18-24","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+991,"Cayma","Mujer","45-54","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+992,"Socabaya","Mujer","55-70","D/E","N.S/N.O","Adolfo Donayre Sarolli","Gustavo Rondón Fudinaga",1
+993,"Paucarpata","Mujer","35-44","C","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+994,"Yura","Hombre","18-24","A/B","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+995,"José Luis Bustamante y Rivero","Hombre","18-24","C","Cesar Acuña Peralta","N.S/N.O","Sergio Davila Vizcarra",1
+996,"Paucarpata","Mujer","18-24","C","Keiko Fujimori Higuchi","Guido del Carpio Rodriguez","Otros",1
+997,"Arequipa Cercado","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+998,"Yanahuara","Mujer","35-44","A/B","N.S/N.O","Esdras Medina Minaya","A. Elmer Arenas Pérez",1
+999,"Alto Selva Alegre","Mujer","35-44","A/B","Pablo López Chau","N.S/N.O","Otros",1
+1000,"Socabaya","Mujer","55-70","D/E","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+1001,"Miraflores","Mujer","25-34","D/E","Wolfgang Grozo Costa","Marleny Arminta Valencia","N.S/N.O",1
+1002,"Cayma","Hombre","45-54","A/B","José Luna Gálvez","Amalia Palomino Pacheco","N.S/N.O",1
+1003,"Cerro Colorado","Hombre","25-34","C","Otros","N.S/N.O","Otros",1
+1004,"Sachaca","Mujer","18-24","D/E","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+1005,"Cerro Colorado","Mujer","55-70","D/E","Pablo López Chau","Esdras Medina Minaya","N.S/N.O",1
+1006,"Yura","Hombre","35-44","A/B","Pablo López Chau","Marleny Arminta Valencia","Ricardo Ramírez del Villar",1
+1007,"Paucarpata","Hombre","25-34","C","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+1008,"Arequipa Cercado","Mujer","25-34","C","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+1009,"Miraflores","Hombre","25-34","C","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+1010,"Cayma","Hombre","25-34","D/E","Otros","N.S/N.O","A. Elmer Arenas Pérez",1
+1011,"La Joya","Hombre","35-44","D/E","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+1012,"Paucarpata","Mujer","25-34","A/B","Carlos Álvarez Loayza","Cosme Huaman Sánchez","N.S/N.O",1
+1013,"Paucarpata","Mujer","25-34","A/B","Carlos Álvarez Loayza","Marleny Arminta Valencia","N.S/N.O",1
+1014,"Sachaca","Hombre","25-34","D/E","Carlos Álvarez Loayza","N.S/N.O","Gustavo Rondón Fudinaga",1
+1015,"Arequipa Cercado","Mujer","45-54","D/E","N.S/N.O","Otros","N.S/N.O",1
+1016,"Yanahuara","Hombre","35-44","C","Otros","Otros","Otros",1
+1017,"Mariano Melgar","Hombre","18-24","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1018,"Miraflores","Hombre","18-24","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+1019,"Sachaca","Mujer","18-24","A/B","N.S/N.O","N.S/N.O","Yobana Huisa Vargas",1
+1020,"Arequipa Cercado","Mujer","18-24","C","Otros","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+1021,"Mariano Melgar","Mujer","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+1022,"Mariano Melgar","Mujer","35-44","D/E","José Luna Gálvez","N.S/N.O","Gustavo Rondón Fudinaga",1
+1023,"Cerro Colorado","Mujer","25-34","D/E","José Luna Gálvez","N.S/N.O","Gustavo Rondón Fudinaga",1
+1024,"Miraflores","Hombre","25-34","C","N.S/N.O","N.S/N.O","Sergio Davila Vizcarra",1
+1025,"Cerro Colorado","Hombre","25-34","C","N.S/N.O","Marleny Arminta Valencia","A. Elmer Arenas Pérez",1
+1026,"Cerro Colorado","Hombre","18-24","D/E","Otros","Mauricio Alosilla Chambi","N.S/N.O",1
+1027,"Mariano Melgar","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","Otros",1
+1028,"Cerro Colorado","Mujer","25-34","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+1029,"Cayma","Hombre","45-54","D/E","Otros","Otros","Otros",1
+1030,"Miraflores","Mujer","55-70","D/E","José Luna Gálvez","Otros","A. Elmer Arenas Pérez",1
+1031,"Paucarpata","Hombre","35-44","C","Otros","Otros","Otros",1
+1032,"Alto Selva Alegre","Mujer","25-34","C","N.S/N.O","Otros","N.S/N.O",1
+1033,"Arequipa Cercado","Mujer","25-34","A/B","Keiko Fujimori Higuchi","N.S/N.O","Sergio Davila Vizcarra",1
+1034,"Cayma","Hombre","55-70","A/B","N.S/N.O","Marleny Arminta Valencia","Ricardo Ramírez del Villar",1
+1035,"La Joya","Hombre","18-24","C","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+1036,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1037,"Paucarpata","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","Otros",1
+1038,"Miraflores","Hombre","35-44","C","N.S/N.O","Cosme Huaman Sánchez","Gustavo Rondón Fudinaga",1
+1039,"Arequipa Cercado","Hombre","35-44","D/E","Cesar Acuña Peralta","Nicolas Talavera Benavente","N.S/N.O",1
+1040,"Arequipa Cercado","Mujer","35-44","D/E","Carlos Álvarez Loayza","N.S/N.O","Ricardo Ramírez del Villar",1
+1041,"Cayma","Hombre","35-44","A/B","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+1042,"José Luis Bustamante y Rivero","Hombre","35-44","D/E","Wolfgang Grozo Costa","Cosme Huaman Sánchez","N.S/N.O",1
+1043,"La Joya","Hombre","55-70","C","N.S/N.O","Amalia Palomino Pacheco","N.S/N.O",1
+1044,"Paucarpata","Mujer","55-70","A/B","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+1045,"Paucarpata","Hombre","45-54","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+1046,"José Luis Bustamante y Rivero","Mujer","35-44","D/E","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+1047,"Paucarpata","Mujer","25-34","A/B","N.S/N.O","Otros","N.S/N.O",1
+1048,"Socabaya","Mujer","18-24","D/E","Otros","Otros","A. Elmer Arenas Pérez",1
+1049,"Alto Selva Alegre","Mujer","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+1050,"Cayma","Mujer","45-54","D/E","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+1051,"Mariano Melgar","Mujer","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1052,"Cerro Colorado","Hombre","35-44","D/E","N.S/N.O","Adolfo Donayre Sarolli","Otros",1
+1053,"José Luis Bustamante y Rivero","Hombre","18-24","D/E","Rafael López Aliaga","Esdras Medina Minaya","Otros",1
+1054,"Alto Selva Alegre","Mujer","35-44","D/E","N.S/N.O","Nicolas Talavera Benavente","Otros",1
+1055,"Cerro Colorado","Hombre","35-44","C","Rafael López Aliaga","Mauricio Alosilla Chambi","N.S/N.O",1
+1056,"Paucarpata","Hombre","25-34","C","Cesar Acuña Peralta","Otros","Otros",1
+1057,"Cerro Colorado","Mujer","55-70","D/E","Cesar Acuña Peralta","N.S/N.O","Otros",1
+1058,"Cayma","Hombre","45-54","D/E","N.S/N.O","Otros","N.S/N.O",1
+1059,"Cerro Colorado","Hombre","25-34","A/B","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+1060,"José Luis Bustamante y Rivero","Hombre","45-54","D/E","Otros","Otros","N.S/N.O",1
+1061,"Arequipa Cercado","Hombre","25-34","D/E","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1062,"Alto Selva Alegre","Hombre","55-70","D/E","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+1063,"Socabaya","Hombre","35-44","A/B","Carlos Álvarez Loayza","Otros","N.S/N.O",1
+1064,"Cayma","Mujer","45-54","C","N.S/N.O","Adolfo Donayre Sarolli","N.S/N.O",1
+1065,"Cerro Colorado","Mujer","18-24","D/E","Carlos Álvarez Loayza","N.S/N.O","N.S/N.O",1
+1066,"Miraflores","Mujer","18-24","C","N.S/N.O","Otros","Gustavo Rondón Fudinaga",1
+1067,"Alto Selva Alegre","Hombre","25-34","D/E","N.S/N.O","Nicolas Talavera Benavente","Yobana Huisa Vargas",1
+1068,"Paucarpata","Hombre","35-44","C","Pablo López Chau","Cosme Huaman Sánchez","N.S/N.O",1
+1069,"Alto Selva Alegre","Mujer","35-44","A/B","Rafael López Aliaga","Marleny Arminta Valencia","Yobana Huisa Vargas",1
+1070,"José Luis Bustamante y Rivero","Mujer","55-70","D/E","Cesar Acuña Peralta","Adolfo Donayre Sarolli","N.S/N.O",1
+1071,"Cayma","Hombre","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+1072,"Cerro Colorado","Mujer","18-24","D/E","Roberto Sánchez Palomino","Otros","N.S/N.O",1
+1073,"Cayma","Hombre","45-54","C","Otros","Amalia Palomino Pacheco","N.S/N.O",1
+1074,"Cerro Colorado","Hombre","18-24","D/E","N.S/N.O","N.S/N.O","Otros",1
+1075,"Cayma","Hombre","35-44","A/B","Roberto Sánchez Palomino","N.S/N.O","Gustavo Rondón Fudinaga",1
+1076,"Paucarpata","Mujer","18-24","C","N.S/N.O","Marleny Arminta Valencia","Sergio Davila Vizcarra",1
+1077,"Miraflores","Hombre","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+1078,"Cerro Colorado","Mujer","18-24","A/B","José Luna Gálvez","N.S/N.O","Otros",1
+1079,"Miraflores","Mujer","35-44","D/E","Pablo López Chau","N.S/N.O","Ricardo Ramírez del Villar",1
+1080,"Paucarpata","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1081,"Alto Selva Alegre","Mujer","35-44","D/E","Cesar Acuña Peralta","N.S/N.O","N.S/N.O",1
+1082,"Socabaya","Hombre","35-44","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1083,"Cayma","Mujer","45-54","D/E","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+1084,"Paucarpata","Hombre","25-34","D/E","N.S/N.O","Otros","N.S/N.O",1
+1085,"Yura","Mujer","18-24","D/E","Pablo López Chau","N.S/N.O","N.S/N.O",1
+1086,"Cerro Colorado","Mujer","25-34","D/E","Carlos Álvarez Loayza","N.S/N.O","Otros",1
+1087,"Paucarpata","Hombre","55-70","D/E","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+1088,"Alto Selva Alegre","Mujer","55-70","C","Pablo López Chau","N.S/N.O","Otros",1
+1089,"Alto Selva Alegre","Mujer","18-24","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+1090,"Arequipa Cercado","Hombre","18-24","D/E","N.S/N.O","Cosme Huaman Sánchez","N.S/N.O",1
+1091,"Socabaya","Hombre","35-44","D/E","Otros","Otros","N.S/N.O",1
+1092,"Cayma","Hombre","55-70","C","Otros","N.S/N.O","N.S/N.O",1
+1093,"Socabaya","Mujer","18-24","A/B","Cesar Acuña Peralta","Otros","N.S/N.O",1
+1094,"Miraflores","Hombre","18-24","A/B","N.S/N.O","N.S/N.O","N.S/N.O",1
+1095,"Sachaca","Mujer","45-54","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+1096,"Miraflores","Mujer","45-54","D/E","Rafael López Aliaga","Marleny Arminta Valencia","N.S/N.O",1
+1097,"José Luis Bustamante y Rivero","Mujer","35-44","C","José Luna Gálvez","N.S/N.O","N.S/N.O",1
+1098,"Sachaca","Hombre","35-44","D/E","Cesar Acuña Peralta","Otros","Gustavo Rondón Fudinaga",1
+1099,"Cayma","Mujer","25-34","A/B","Cesar Acuña Peralta","Otros","Ricardo Ramírez del Villar",1
+1100,"Alto Selva Alegre","Mujer","55-70","C","Otros","Otros","Sergio Davila Vizcarra",1
+1101,"Sachaca","Mujer","25-34","C","Pablo López Chau","Marleny Arminta Valencia","N.S/N.O",1
+1102,"Miraflores","Mujer","25-34","D/E","Otros","Cosme Huaman Sánchez","Sergio Davila Vizcarra",1
+1103,"Socabaya","Hombre","25-34","C","N.S/N.O","Otros","N.S/N.O",1
+1104,"José Luis Bustamante y Rivero","Mujer","25-34","D/E","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+1105,"Paucarpata","Hombre","25-34","C","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+1106,"Socabaya","Mujer","25-34","D/E","Pablo López Chau","Otros","N.S/N.O",1
+1107,"Socabaya","Mujer","35-44","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1108,"Cayma","Hombre","25-34","A/B","Otros","Otros","N.S/N.O",1
+1109,"Paucarpata","Mujer","25-34","C","Wolfgang Grozo Costa","N.S/N.O","Gustavo Rondón Fudinaga",1
+1110,"Yanahuara","Mujer","35-44","C","Rafael López Aliaga","Marleny Arminta Valencia","Ricardo Ramírez del Villar",1
+1111,"José Luis Bustamante y Rivero","Hombre","35-44","D/E","José Luna Gálvez","Mauricio Alosilla Chambi","Otros",1
+1112,"Cerro Colorado","Hombre","18-24","D/E","José Luna Gálvez","Cosme Huaman Sánchez","Sergio Davila Vizcarra",1
+1113,"Socabaya","Hombre","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1114,"Cayma","Mujer","45-54","C","N.S/N.O","N.S/N.O","N.S/N.O",1
+1115,"Cerro Colorado","Hombre","55-70","D/E","Wolfgang Grozo Costa","Esdras Medina Minaya","Gustavo Rondón Fudinaga",1
+1116,"Cayma","Mujer","35-44","C","N.S/N.O","Otros","N.S/N.O",1
+1117,"Paucarpata","Hombre","25-34","D/E","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+1118,"Paucarpata","Mujer","18-24","D/E","Wolfgang Grozo Costa","Otros","N.S/N.O",1
+1119,"Alto Selva Alegre","Mujer","35-44","D/E","N.S/N.O","Otros","N.S/N.O",1
+1120,"Cerro Colorado","Hombre","18-24","C","N.S/N.O","N.S/N.O","Ricardo Ramírez del Villar",1
+1121,"Mariano Melgar","Hombre","25-34","D/E","Wolfgang Grozo Costa","N.S/N.O","N.S/N.O",1
+1122,"Paucarpata","Mujer","35-44","C","Otros","N.S/N.O","N.S/N.O",1
+1123,"Yanahuara","Mujer","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+1124,"Cerro Colorado","Mujer","25-34","D/E","Pablo López Chau","Guido del Carpio Rodriguez","Gustavo Rondón Fudinaga",1
+1125,"Alto Selva Alegre","Mujer","25-34","A/B","N.S/N.O","N.S/N.O","Otros",1
+1126,"Miraflores","Hombre","25-34","C","Wolfgang Grozo Costa","Marleny Arminta Valencia","A. Elmer Arenas Pérez",1
+1127,"Cayma","Mujer","55-70","D/E","José Luna Gálvez","Otros","Sergio Davila Vizcarra",1
+1128,"Paucarpata","Hombre","55-70","C","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+1129,"Socabaya","Hombre","25-34","D/E","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+1130,"Cerro Colorado","Mujer","25-34","D/E","Pablo López Chau","N.S/N.O","A. Elmer Arenas Pérez",1
+1131,"Alto Selva Alegre","Hombre","55-70","D/E","Otros","Esdras Medina Minaya","A. Elmer Arenas Pérez",1
+1132,"Alto Selva Alegre","Hombre","45-54","C","Otros","Marleny Arminta Valencia","Sergio Davila Vizcarra",1
+1133,"José Luis Bustamante y Rivero","Mujer","45-54","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1134,"José Luis Bustamante y Rivero","Hombre","18-24","D/E","Rafael López Aliaga","Amalia Palomino Pacheco","A. Elmer Arenas Pérez",1
+1135,"Mariano Melgar","Mujer","35-44","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+1136,"Cerro Colorado","Mujer","55-70","A/B","Roberto Sánchez Palomino","N.S/N.O","N.S/N.O",1
+1137,"Cerro Colorado","Mujer","35-44","C","Otros","Adolfo Donayre Sarolli","A. Elmer Arenas Pérez",1
+1138,"Cerro Colorado","Mujer","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+1139,"Socabaya","Hombre","18-24","C","Rafael López Aliaga","N.S/N.O","N.S/N.O",1
+1140,"Alto Selva Alegre","Hombre","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+1141,"Alto Selva Alegre","Hombre","18-24","D/E","Pablo López Chau","Otros","Gustavo Rondón Fudinaga",1
+1142,"Alto Selva Alegre","Hombre","25-34","D/E","Otros","Marleny Arminta Valencia","A. Elmer Arenas Pérez",1
+1143,"Socabaya","Hombre","35-44","C","Otros","Marleny Arminta Valencia","N.S/N.O",1
+1144,"Mariano Melgar","Mujer","25-34","D/E","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+1145,"Paucarpata","Hombre","55-70","C","Rafael López Aliaga","Mauricio Alosilla Chambi","Gustavo Rondón Fudinaga",1
+1146,"José Luis Bustamante y Rivero","Mujer","18-24","D/E","Pablo López Chau","Cosme Huaman Sánchez","N.S/N.O",1
+1147,"Arequipa Cercado","Mujer","45-54","A/B","Pablo López Chau","N.S/N.O","N.S/N.O",1
+1148,"Socabaya","Mujer","45-54","D/E","Pablo López Chau","Otros","N.S/N.O",1
+1149,"Arequipa Cercado","Mujer","18-24","A/B","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+1150,"Cayma","Hombre","35-44","C","N.S/N.O","Otros","N.S/N.O",1
+1151,"Arequipa Cercado","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","Otros",1
+1152,"Paucarpata","Mujer","25-34","C","Keiko Fujimori Higuchi","N.S/N.O","Otros",1
+1153,"Yanahuara","Hombre","35-44","C","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+1154,"Cerro Colorado","Mujer","45-54","D/E","N.S/N.O","Otros","N.S/N.O",1
+1155,"La Joya","Hombre","35-44","C","Carlos Álvarez Loayza","Otros","Sergio Davila Vizcarra",1
+1156,"Mariano Melgar","Mujer","25-34","D/E","José Luna Gálvez","Guido del Carpio Rodriguez","N.S/N.O",1
+1157,"La Joya","Hombre","45-54","D/E","Otros","N.S/N.O","N.S/N.O",1
+1158,"Alto Selva Alegre","Hombre","25-34","D/E","Keiko Fujimori Higuchi","N.S/N.O","N.S/N.O",1
+1159,"Cayma","Hombre","35-44","A/B","Cesar Acuña Peralta","Otros","N.S/N.O",1
+1160,"Socabaya","Mujer","55-70","C","N.S/N.O","Otros","N.S/N.O",1
+1161,"Arequipa Cercado","Mujer","25-34","C","N.S/N.O","Nicolas Talavera Benavente","N.S/N.O",1
+1162,"La Joya","Hombre","55-70","D/E","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+1163,"Paucarpata","Hombre","35-44","D/E","N.S/N.O","Otros","N.S/N.O",1
+1164,"José Luis Bustamante y Rivero","Hombre","25-34","C","Keiko Fujimori Higuchi","N.S/N.O","A. Elmer Arenas Pérez",1
+1165,"Paucarpata","Hombre","25-34","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1166,"Paucarpata","Hombre","25-34","D/E","Cesar Acuña Peralta","Otros","Yobana Huisa Vargas",1
+1167,"Miraflores","Mujer","45-54","D/E","Rafael López Aliaga","Otros","Gustavo Rondón Fudinaga",1
+1168,"Paucarpata","Mujer","35-44","C","Pablo López Chau","Mauricio Alosilla Chambi","Otros",1
+1169,"Cayma","Mujer","55-70","C","Wolfgang Grozo Costa","Marleny Arminta Valencia","N.S/N.O",1
+1170,"Alto Selva Alegre","Mujer","25-34","C","Otros","N.S/N.O","Yobana Huisa Vargas",1
+1171,"Sachaca","Mujer","55-70","C","N.S/N.O","Marleny Arminta Valencia","N.S/N.O",1
+1172,"Alto Selva Alegre","Hombre","35-44","A/B","Otros","Marleny Arminta Valencia","N.S/N.O",1
+1173,"Cerro Colorado","Hombre","18-24","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1174,"Arequipa Cercado","Hombre","35-44","D/E","N.S/N.O","Esdras Medina Minaya","Otros",1
+1175,"Paucarpata","Mujer","25-34","C","N.S/N.O","Otros","Ricardo Ramírez del Villar",1
+1176,"Mariano Melgar","Hombre","25-34","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1177,"Cerro Colorado","Mujer","45-54","C","Pablo López Chau","Guido del Carpio Rodriguez","Otros",1
+1178,"Cayma","Mujer","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+1179,"La Joya","Mujer","18-24","C","N.S/N.O","Adolfo Donayre Sarolli","Otros",1
+1180,"Cerro Colorado","Hombre","25-34","D/E","Wolfgang Grozo Costa","N.S/N.O","A. Elmer Arenas Pérez",1
+1181,"La Joya","Hombre","25-34","C","N.S/N.O","Otros","N.S/N.O",1
+1182,"Yanahuara","Hombre","25-34","C","Otros","N.S/N.O","N.S/N.O",1
+1183,"Arequipa Cercado","Hombre","35-44","D/E","N.S/N.O","N.S/N.O","N.S/N.O",1
+1184,"Cerro Colorado","Mujer","18-24","D/E","N.S/N.O","Adolfo Donayre Sarolli","Ricardo Ramírez del Villar",1
+1185,"La Joya","Hombre","35-44","C","N.S/N.O","Esdras Medina Minaya","Ricardo Ramírez del Villar",1
+1186,"José Luis Bustamante y Rivero","Hombre","45-54","C","N.S/N.O","Esdras Medina Minaya","N.S/N.O",1
+1187,"Socabaya","Hombre","45-54","A/B","José Luna Gálvez","N.S/N.O","Otros",1
+1188,"Arequipa Cercado","Mujer","25-34","C","Pablo López Chau","N.S/N.O","Sergio Davila Vizcarra",1
+1189,"Cerro Colorado","Mujer","25-34","D/E","Otros","N.S/N.O","N.S/N.O",1
+1190,"Mariano Melgar","Hombre","55-70","C","Roberto Sánchez Palomino","Amalia Palomino Pacheco","N.S/N.O",1
+1191,"Yanahuara","Mujer","45-54","D/E","N.S/N.O","Marleny Arminta Valencia","Gustavo Rondón Fudinaga",1
+1192,"Yura","Mujer","45-54","D/E","Otros","N.S/N.O","Gustavo Rondón Fudinaga",1
+1193,"Cayma","Hombre","45-54","D/E","Otros","Otros","Otros",1
+1194,"Alto Selva Alegre","Mujer","55-70","D/E","N.S/N.O","N.S/N.O","A. Elmer Arenas Pérez",1
+1195,"Arequipa Cercado","Hombre","35-44","D/E","Otros","N.S/N.O","Otros",1
+1196,"José Luis Bustamante y Rivero","Hombre","25-34","C","N.S/N.O","N.S/N.O","Gustavo Rondón Fudinaga",1
+1197,"Cerro Colorado","Hombre","18-24","D/E","Otros","N.S/N.O","Sergio Davila Vizcarra",1
+1198,"Alto Selva Alegre","Hombre","25-34","A/B","Pablo López Chau","Guido del Carpio Rodriguez","N.S/N.O",1
+1199,"Cayma","Mujer","55-70","D/E","Roberto Sánchez Palomino","Cosme Huaman Sánchez","N.S/N.O",1
+1200,"La Joya","Mujer","25-34","D/E","Otros","Otros","N.S/N.O",1
+1201,"Alto Selva Alegre","Hombre","55-70","D/E","N.S/N.O","Otros","Otros",1
+1202,"Cerro Colorado","Mujer","35-44","C","Pablo López Chau","Guido del Carpio Rodriguez","A. Elmer Arenas Pérez",1
+1203,"Yanahuara","Hombre","25-34","D/E","Pablo López Chau","N.S/N.O","Otros",1
+1204,"Alto Selva Alegre","Mujer","18-24","D/E","Otros","N.S/N.O","Otros",1
+1205,"Paucarpata","Mujer","45-54","C","Carlos Álvarez Loayza","N.S/N.O","A. Elmer Arenas Pérez",1
+1206,"Miraflores","Hombre","18-24","A/B","Otros","N.S/N.O","N.S/N.O",1
