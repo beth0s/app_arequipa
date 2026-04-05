@@ -8,11 +8,18 @@ RUN apt-get update && apt-get install -y \
     libfontconfig1-dev \
     libcairo2-dev \
     libicu-dev \
+    libpng-dev \
+    libjpeg-dev \
+    make \
+    zlib1g-dev \
     pandoc \
     && rm -rf /var/lib/apt/lists/*
 
-# Instalar paquetes de R usando binarios pre-compilados (MUCHO MÁS RÁPIDO)
-RUN R -e "options(repos = c(CRAN = 'https://packagemanager.posit.co/cran/__linux__/bookworm/latest')); install.packages(c('shiny', 'shinydashboard', 'tidyverse', 'plotly', 'DT', 'leaflet', 'base64enc'))"
+# Instalar stringi primero para asegurar que use la version de libicu del sistema
+RUN R -e "install.packages('stringi', repos='https://cran.rstudio.com/', type='source')"
+
+# Instalar el resto de paquetes de R
+RUN R -e "install.packages(c('shiny', 'shinydashboard', 'tidyverse', 'plotly', 'DT', 'leaflet', 'base64enc'), repos='https://packagemanager.posit.co/cran/__linux__/bookworm/latest')"
 
 # Limpiar archivos temporales
 RUN rm -rf /tmp/downloaded_packages/
