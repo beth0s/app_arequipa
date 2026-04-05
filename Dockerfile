@@ -7,6 +7,8 @@ RUN apt-get update && apt-get install -y \
     libxml2-dev \
     libfontconfig1-dev \
     libcairo2-dev \
+    libicu-dev \
+    pandoc \
     && rm -rf /var/lib/apt/lists/*
 
 # Instalar paquetes de R usando binarios pre-compilados (MUCHO MÁS RÁPIDO)
