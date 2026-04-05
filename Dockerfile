@@ -15,16 +15,16 @@ RUN R -e "options(repos = c(CRAN = 'https://packagemanager.posit.co/cran/__linux
 # Limpiar archivos temporales
 RUN rm -rf /tmp/downloaded_packages/
 
-# Copiar la aplicación al directorio del servidor Shiny
-COPY . /srv/shiny-server/
+# Copiar la aplicación al directorio de trabajo
+COPY . /app
+WORKDIR /app
 
-# Asegurar permisos para la carpeta de datos (para que la app pueda escribir reportes/CSV temporales)
-RUN mkdir -p /srv/shiny-server/data && \
-    chown -R shiny:shiny /srv/shiny-server/
+# Asegurar permisos para la carpeta de datos
+RUN mkdir -p /app/data && chown -R shiny:shiny /app
 
-# Exponer el puerto estándar de Shiny Server
-EXPOSE 3838
+# Render usa una variable de entorno $PORT. Si no existe, usamos 3838 por defecto.
+ENV PORT=3838
 
-# Iniciar Shiny Server
-CMD ["/usr/bin/shiny-server"]
+# Iniciar la aplicación directamente sin shiny-server para mayor estabilidad en la nube
+CMD ["R", "-e", "shiny::runApp('/app', host = '0.0.0.0', port = as.numeric(Sys.getenv('PORT')))"]
 
